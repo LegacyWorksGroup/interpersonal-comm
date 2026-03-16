@@ -27,7 +27,12 @@ website:
       - href: index.qmd
       - section: "Series Contents"
         contents: 
-          - text: "TBD"
+          - text: "Understanding Your Team"
+            href: content/understanding.qmd
+          - text: "Courageous Conversations"
+            href: content/courage.qmd
+          - text: "Navigating Conflict"
+            href: content/navigate-conflict.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group (Loop: [{{< fa arrows-spin >}}](https://sites.google.com/legacyworksgroup.com/legacy-loop/legacyloop))"
     background: secondary
