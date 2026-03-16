@@ -2,13 +2,20 @@
 title: "Planning for and Navigating Conflict"
 ---
 
-{{< fa person-digging >}} Under construction; check back later.
-
+In this session we will normalize conflict as a natural part of human interaction and adopt a proactive approach to preparing for it within our teams. We will explore typical modes of handling conflict, reflect on our individual and team patterns in approaching conflict, and identify supportive practices to ameliorate the challenges associated with over- or underuse of a particular conflict style.
 
 :::{.callout-tip icon="false" collapse="false"}
 ## Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} Exercise creative courage]{.cc-value}
+- [{{< fa heart >}} Embrace vulnerability]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} Candid communication]{.cc-skill}
+- [{{< fa hand-holding-heart >}} Active listening]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Move at the speed of trust]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Embrace complexity]{.cc-steward}
+- [{{< fa square-poll-vertical >}} Drive cycles of continuous improvement and evolution]{.cc-result}
 
 :::
 

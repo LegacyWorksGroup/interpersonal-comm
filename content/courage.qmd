@@ -2,13 +2,23 @@
 title: "Clear Communication, Courageous Conversations"
 ---
 
-{{< fa person-digging >}} Under construction; check back later.
-
+This session is designed to strengthen participants’ communication skills and build capacity to engage in candid, sometimes difficult conversations about sensitive topics or conflicts with clarity, empathy, and effectiveness. We will explore the fundamentals of how we communicate and unpack why courageous conversations are valuable. We will share practical tips and approaches and apply them to real-world scenarios through guided practice. Building these skills supports confidence, authenticity, and stronger collaborative relationships.
 
 :::{.callout-tip icon="false" collapse="false"}
 ## Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} Exercise creative courage]{.cc-value}
+- [{{< fa heart >}} Take action to learn]{.cc-value}
+- [{{< fa heart >}} Empathize]{.cc-value}
+- [{{< fa heart >}} Embrace vulnerability]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} Candid communication]{.cc-skill}
+- [{{< fa hand-holding-heart >}} Active listening]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Move at the speed of trust]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Embrace complexity]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Work to transform power]{.cc-steward}
+- [{{< fa square-poll-vertical >}} Drive cycles of continuous improvement and evolution]{.cc-result}
 
 :::
 

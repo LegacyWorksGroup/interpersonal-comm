@@ -2,13 +2,19 @@
 title: "Understanding Your Team: Thinking and Working Styles, Working Agreements"
 ---
 
-{{< fa person-digging >}} Under construction; check back later.
-
+This session will unpack what makes you and your colleagues tick and the implications for how your team works together. We’ll explore individual thinking preferences, work styles, and values to deepen understanding and empathy across your team. Participants will gain practice in co-developing working agreements to ensure an inclusive and supportive environment in which all team members can show up fully and do their best work.
 
 :::{.callout-tip icon="false" collapse="false"}
 ## Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} Embrace vulnerability]{.cc-value}
+- [{{< fa heart >}} Empathize]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} Bring vision to life]{.cc-skill}
+- [{{< fa hand-holding-heart >}} Move at the speed of trust]{.cc-steward}
+- [{{< fa hand-holding-heart >}} Work to transform power]{.cc-steward}
+
 
 :::
 
