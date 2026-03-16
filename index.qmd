@@ -35,7 +35,9 @@ After completing this series, participants will be able to:
 
 | **Date** | **Series** | **Primary Instructor** |
 |:-----:|:-----------------|:---------|
-| x | x | <span style="color:#4AB2CB">{{< fa people-group >}} TBA </span> |
+| Oct. 1, 2026 | 1. Understanding Your Team: Thinking and Working Styles, Working Agreements | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| Nov. 5, 2026 | 2. Clear Communication, Courageous Conversations | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
+| Dec. 3, 2026 | 3. Planning for and Navigating Conflict | <span style="color:#4AB2CB">{{< fa people-group >}} Carrie Kappel </span> |
 
 :::
 
