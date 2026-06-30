@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/recordings.html</loc>
-    <lastmod>2026-05-13T14:39:45.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/content/understanding.html</loc>
-    <lastmod>2026-05-13T14:39:45.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/content/courage.html</loc>
-    <lastmod>2026-05-13T14:39:45.907Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/content/navigate-conflict.html</loc>
-    <lastmod>2026-05-13T14:39:45.909Z</lastmod>
+    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/resources.html</loc>
+    <lastmod>2026-06-30T13:43:49.909Z</lastmod>
   </url>
   <url>
     <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/index.html</loc>
-    <lastmod>2026-05-13T14:39:45.909Z</lastmod>
+    <lastmod>2026-06-30T13:43:49.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/content/navigate-conflict.html</loc>
+    <lastmod>2026-06-30T13:43:49.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/content/courage.html</loc>
+    <lastmod>2026-06-30T13:43:49.908Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/content/understanding.html</loc>
+    <lastmod>2026-06-30T13:43:49.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LegacyWorksGroup.github.io/interpersonal-comm/recordings.html</loc>
+    <lastmod>2026-06-30T13:43:49.909Z</lastmod>
   </url>
 </urlset>
