@@ -71,7 +71,7 @@ Why does this matter for teams and collaboratives? Because each thinking style b
 
 or more on how thinking styles shape meeting design, see [Designing Meetings for All Thinking Styles](https://legacyworksgroup.github.io/inclusive-facilitation/content/meetings.html#designing-meetings-for-all-thinking-styles) in the Effective Meetings module.
 
-::: {.callout-note title="Activity: Expect and Enjoy"}
+::: {.callout-note icon="false" title="Activity: Expect and Enjoy"}
 **Part 1**
 
 On your own:
@@ -93,7 +93,7 @@ On your own:
 - Read over the other columns
 :::
 
-::: {.callout-warning title="Discussion: What Strikes You?"}
+::: {.callout-warning icon="false" title="Discussion: What Strikes You?"}
 - What strikes you as you read the other columns?
 - Where do you see overlap, and where do you see a real difference in what people expect?
 :::
