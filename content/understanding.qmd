@@ -13,14 +13,14 @@ _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-mag
 
 - [{{< fa heart >}} Embrace vulnerability]{.cc-value}
 - [{{< fa heart >}} Empathize]{.cc-value}
-- [{{< fa wand-magic-sparkles >}} Bring vision to life]{.cc-skill}
-- [{{< fa hand-holding-heart >}} Move at the speed of trust]{.cc-steward}
-- [{{< fa hand-holding-heart >}} Work to transform power]{.cc-steward}
+- [{{< fa square-poll-vertical >}} Ensure belonging, access and opportunity]{.cc-result}
 
 
 :::
 
-::: {.callout-tip title="Learning Objectives"}
+:::{.callout-tip icon="false" collapse="false"}
+### {{< fa brain >}} Learning Objectives
+
 After completing this module you will be able to:
 
 - Recognize the diversity of thinking and work style preferences across your team and understand how these preferences help shape workplace expectations and behaviors
@@ -41,7 +41,9 @@ We will look at it through two lenses and then put them to work:
 
 We start with preferences because they are the easiest to talk about, and then go a layer deeper. You can borrow this sequence when you work with your own teams and clients: begin with what is low-risk and easy to discuss, then build toward what takes more trust.
 
-::: {.callout-note title="Pre-work: Thinking Preferences Quiz"}
+:::{.callout-note icon="false" collapse="false"}
+### {{< fa file-pen >}} Pre-work: Thinking Preferences Quiz
+
 Before the session, take this [short quiz](https://docs.google.com/document/d/1XZD_7oVnS6JoFVUfhhXb3pMgSleW_1AK4YDsMEvlwgI/copy) to understand your own thinking preferences better. Note which quadrant(s) you score highest in.
 
 No time for the quiz? Read the quadrant descriptions below and pick the one that sounds most like you.
@@ -54,7 +56,10 @@ People have different thinking preferences, and those preferences influence what
 
 Herrmann's model uses the brain as a metaphor. The **neocortex** is associated with intellectual, cerebral thinking and the **limbic system** with instinctive, emotional thinking. The **left hemisphere** is associated with rational, analytical, systematic thinking, and the **right hemisphere** with intuitive, artistic thinking. Combining these gives four quadrants, each associated with a different thinking style. As with any model, treat it as a useful lens and not a literal map of the brain.
 
-![Top-down image of a human brain divided into four sections next to a circle divided into the same sections. Top left of both is blue, labeled 'analytical' in the circle. Top right is yellow, labeled 'experimental' in the circle. Bottom right is red and labeled 'relational' in circle. Bottom left is green and is labeled 'practical' in circle. The circle also labels the lines separating each pair of adjacent quadrants as follows: analytical and experimental is 'intellectual', experimental and relational is 'intuitive', relational and practical is 'instinctive', and practical and analytical is 'rational'.](images/whole-brain-model.png)
+<p align="center">
+<img src="images/whole-brain-model.png" alt="Top-down image of a human brain divided into four sections next to a circle divided into the same sections. Top left of both is blue, labeled 'analytical' in the circle. Top right is yellow, labeled 'experimental' in the circle. Bottom right is red and labeled 'relational' in circle. Bottom left is green and is labeled 'practical' in the circle. The circle also labels the lines separating each pair of adjacent quadrants as follows: analytical and experimental is 'intellectual', experimental and relational is 'intuitive', relational and practical is 'instinctive', and practical and analytical is 'rational'." width="80%"/>
+<figcaption> Ned Herrmann's Whole Brain Model </figcaption>
+</p>
 
 *Ned Herrmann's Whole Brain Model*
 
@@ -62,23 +67,23 @@ Herrmann's model uses the brain as a metaphor. The **neocortex** is associated w
 | --- | --- | --- | --- | --- |
 | **A - Blue** | Analytical | *What?* | Clear, concise information; well-articulated ideas; accuracy and certainty | A good debate; critical analysis; readings |
 | **B - Green** | Practical | *When?* | Step-by-step unfolding; a detailed program; punctuality; an explanation of how | A structured approach; low risk; concrete examples |
-| **C - Red** | Relational | *Who?* | Involvement with others; personal anecdotes; an experiential approach; feelings to be considered | The personal touch; group discussion; harmony |
+| **<span style="color:red">C - Red** | Relational<span>** | *Who?* | Involvement with others; personal anecdotes; an experiential approach; feelings to be considered | The personal touch; group discussion; harmony |
 | **D - Yellow** | Experimental | *Why?* | An overview; a conceptual framework; freedom to explore; analogies and metaphors; visuals | Initiative and imagination; connections to other approaches; newness and fun |
+**<span style="color:red">Relational</span>**
 
-Most of us identify with more than one quadrant. Together, they describe a complex self made up of our rational, theoretical self; our ordered, safekeeping self; our emotional, interpersonal self; and our imaginative, experimental self. Our highest-scoring quadrant is where you tend to start; the others are still part of you.
+Most of us identify with more than one quadrant. Together, they describe a complex self made up of our rational, theoretical self; our ordered, safekeeping self; our emotional, interpersonal self; and our imaginative, experimental self. Your highest-scoring quadrant is where you tend to start, but the others are still part of you.
 
 Why does this matter for teams and collaboratives? Because each thinking style brings different strengths and expectations for teamwork. The analytical colleague who asks for the data, the practical colleague who wants a clear plan and timeline, the relational colleague who wants to check in first, and the experimental colleague who wants to explore the big picture are all contributing something. Conflict can arise when each assumes their way is simply how work is done.
 
-or more on how thinking styles shape meeting design, see [Designing Meetings for All Thinking Styles](https://legacyworksgroup.github.io/inclusive-facilitation/content/meetings.html#designing-meetings-for-all-thinking-styles) in the Effective Meetings module.
+For more on how thinking styles shape meeting design, see [Designing Meetings for All Thinking Styles](https://legacyworksgroup.github.io/inclusive-facilitation/content/meetings.html#designing-meetings-for-all-thinking-styles) in the Effective Meetings module.
 
-::: {.callout-note icon="false" title="Activity: Expect and Enjoy"}
-**Part 1**
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Expect and Enjoy
 
-On your own:
+:::{.panel-tabset}
+### **Part 1** Share your likes and dislikes
 
-- Pick one thinking style, the one you scored highest in (if you have a tie, just pick one)
-
-**Part 2**
+Pick one thinking style to focus on for this activity – the one you scored highest in (if you have a tie, just pick one).
 
 In the shared EasyRetro board:
 
@@ -86,17 +91,18 @@ In the shared EasyRetro board:
 - Brainstorm things that make for a good small group or team process **for you**, and things that frustrate you (likes and dislikes)
 - Answer based primarily on the thinking preference you chose
 
-**Part 3**
+### **Part 2** Compare and contrast
 
 On your own:
 
 - Read over the other columns
-:::
+- Notice where people with different thinking styles may have contrasting preferences
 
-::: {.callout-warning icon="false" title="Discussion: What Strikes You?"}
+### **Part 3** Discussion
 - What strikes you as you read the other columns?
 - Where do you see overlap, and where do you see a real difference in what people expect?
 :::
+::::
 
 ## Our Many Parts
 
@@ -111,23 +117,25 @@ Two ideas make this lens especially useful for teams:
 - **All of our parts have positive intentions.** Each is trying to help or protect us in some way, and each carries hope and wisdom. The part that gets defensive in a feedback conversation, for instance, may be trying to protect us from feeling like we've failed.
 - **Awareness creates choice.** We cannot always control which part reaches for the wheel, but when we notice who is driving, we have more room to respond thoughtfully instead of simply reacting.
 
-A note on how we use this: we are borrowing IFS as a reflection tool for self-awareness at work. It is not a form of therapy, and nothing here requires you to share more than you want to.
+A note on how we use this: we are borrowing IFS as a reflection tool for self-awareness at work. This is not intended as a form of therapy, and nothing here requires you to share more than you want to.
 
-::: {.callout-note title="Activity: Who's been driving your bus?"}
-**Part 1**
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Who's been driving your bus?"
 
-On your own:
+:::{.panel-tabset}
+### **Part 1** - Individual Reflection
 
-- Reflect silently on this question:
+On your own reflect silently on these questions:
   * Which part of me has been most active this week? Who's been driving your bus recently?
   * What is that part trying to do for me? What is it afraid of or hoping for?
 
-**Part 2**
+### **Part 2** - Pair Discussion
 
 In pairs:
 
-- Share what you noticed. Share only what you are comfortable sharing.
+- Share what you noticed either about yourself or about the metaphor of the internal bus. Share only what you are comfortable sharing.
 :::
+::::
 
 ### Tool Highlight: Reflection Prompts for Your Parts
 
@@ -139,18 +147,21 @@ You can use these prompts on your own, in a journal, or in a conversation with a
 - What does it need to feel more settled?
 - What would I want my teammates to know or do to help the part of me that does my best work take the wheel?
 
-### Tool Highlight: Core Values (Optional)
+## Core Values
 
 Our values are another way to understand what is driving us, and what matters so much that we feel it when it is crossed. If you want to go deeper on this thread, Brené Brown's work on values offers a practical starting point: scan a [list of values](https://brenebrown.com/resources/dare-to-lead-list-of-values/), narrow to the two or three that are most central to you, and ask what it looks like when you are living them, and what it feels like when you aren't.
 
 ## You at Your Best
 
-We now have two lenses: how we prefer to work, and what shows up under stress. This next step pulls them together around one question: **what helps *you* do your best work?**
+We now have three lenses: how we prefer to work, our core values, and what shows up under stress. This next step pulls them together around one question: **what helps *you* do your best work?**
 
-::: {.callout-note title="Activity: Guided Journaling"}
-On your own:
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Guided Journaling"}
 
-- Reflect on a work experience, at LegacyWorks or elsewhere, that felt satisfying, enlivening, and productive. It should be a time that reflects you at your best. Then jot down some notes in response to these questions:
+:::{.panel-tabset}
+### Part 1 - Individual Reflection
+
+Reflect on a work experience, at LegacyWorks or elsewhere, that felt satisfying, enlivening, and productive. It should be a time that reflects you at your best. Then jot down some notes in response to these questions:
   * *What were you doing?*
   * *What were others doing?*
   * *What enabled that great work experience?*
@@ -158,10 +169,13 @@ On your own:
   * *What do you really value?*
   * *What is most important to you when you think about how you want your work environment to feel, how you want to show up, and how you want to be treated?*
 
+### - Part 2 - Sensemaking
+
 Read back over what your wrote. Circle words or phrases that stand out to you. Distill your notes into two or three things you need to do your best work, and one or two things you offer a team.
 
-
 Look at what you wrote. You just named what you need. Now imagine everyone on a team did the same, and most of it was never said out loud. How does a team figure out what everyone needs, and then act in accordance with that?
+:::
+::::
 
 ## Working Agreements
 
@@ -173,7 +187,7 @@ One way is through **working agreements**: statements of how we will show up wit
 - Help create the conditions for everyone to show up as the best version of themselves
 - Increase mutual accountability, because expectations are visible and shared
 
-### Tool Highlight: What to Call Them
+### A Note on Terminology
 
 You will hear working agreements called many things. The names overlap, and what matters more than the label is whether the team made them together and they do real work. That said, the terms carry slightly different connotations, so choose the one that best fits your team culture and context.
 
@@ -190,49 +204,48 @@ Words like "rules" and "code of conduct" can sound imposed, while "agreement" si
 
 ### Where Might We Need Them?
 
-Working agreements are useful anywhere people work together over time:
+Working agreements are useful anywhere people work together over time, across the nested scales at which we work:
 
 - **Internal teams** - to set expectations for communication, meetings, availability, and decision making
 - **Collaboratives and partnerships** - where no one is in charge by default and agreements are part of setting the culture of the collaborative
 - **Clients and consulting engagements** - to understand and show up in the way your client expects and enjoys
 - **Communities** - to define how members engage with each other
 
-Moments when it is especially worth having the conversation:
+<p align="right">
+<img src="images/nested-scales.png" alt="Hand drawn image of concentric rings representing nested scales of interaction and change: with self at the center, then team, collaborative, and community. The words "the more than human world" wrap around the right side of the image to indicate the largest scale.">
+<figcaption> LegacyWorks Group nested scales </figcaption>
+</p>
 
-- At the start of a meeting you are facilitating
-- At the beginning of a new year or project
-- When membership or leadership changes
-- When you begin working with a new client
+You may even want to consider some commitments you want to make to yourself to help your best self to show up in the workplace. Maybe you agree to speak your needs to the group, even when it causes you discomfort, or to get adequate sleep, exercise and nutrition to sustain your energy. What do you need that only you can provide?
 
 ## Ingredients of a Good Agreement
 
 Not all agreements are equally useful. "Communicate openly" and "respect each other's time" sound good, but they don't tell anyone what to do. Strong agreements tend to share five ingredients:
 
-| **Ingredient** | **What it means** | **A test question** |
-| --- | --- | --- |
-| **Specific and behavioral** | Says who does what, by when, so you could tell whether it happened | *Who does what, by when, and how would we know?* |
-| **Tied to a real need** | Exists because it supports how people work best, not because it sounds good | *What need does this serve, and whose need is it?* |
-| **Co-created** | Built with everyone who is expected to follow it, not handed down | *Did everyone who is expected to follow this help shape it?* |
-| **Plans for exceptions** | Says what happens when it can't be followed or gets broken, and who decides | *What happens when this doesn't work, and who decides?* |
-| **Revisited** | Includes a point to check whether it's working and adjust | *When will we check whether it's working?* |
+| **Ingredient** | **What it means** | 
+| --- | ----- |
+| **Specific and behavioral** | Says who does what, by when, so you could tell whether it happened | 
+| **Tied to a real need** | Exists because it supports how people work best, not because it sounds good | 
+| **Plans for exceptions** | Says what happens when it can't be followed or gets broken, and who decides | 
+| **Co-created** | Built with everyone who is expected to follow it, not handed down | 
+| **Revisited** | Includes a point to check whether it's working and adjust | 
 
-Some of these ingredients live in the wording of the agreement (specific and behavioral, tied to a need, plans for exceptions). Others live in how the team gets there (co-created, revisited). You can't see those two on the page, but they make the difference between an agreement people follow and a poster on the wall.
+The first three of these ingredients live in the wording of the agreement. The others (co-created, revisited) speak to the process for creating and implementing the agreement. These might not be explicit in the language, but they make the difference between an agreement people follow and a poster on the wall.
 
 ### Weak and Strong Examples
 
 | **Context** | **Weak** | **Strong** | **What the strong version adds** |
-| --- | --- | --- | --- |
-| Communication | "We'll communicate openly." | "If you're blocked or going to miss a deadline, tell the team in Slack as soon as you know, not at the next check-in." | Specific and behavioral: you could tell whether it happened |
-| Meetings | "We'll respect each other's time." | "Meetings start and end on time. Agendas go out 24 hours ahead, and we skip the meeting if there's no agenda." | Observable actions with a clear trigger; also serves people who need prep time |
-| Responsiveness | "We'll be responsive." | "We respond to Slack within one working day. For anything urgent, call or text. Otherwise, we won't expect a same-day reply." | Defines what "responsive" means and separates urgent from non-urgent |
-| Feedback | "We'll give honest feedback." | "We'll share feedback on drafts in comments, with at least two days for review, and start with what's working." | Names the channel, timing, and format |
+| -- | --- | ---- | ---- |
+| Communication | "We'll communicate openly." | "If you're blocked or going to miss a deadline, tell the team as soon as you know, not at the next check-in." | Specific and behavioral: you could tell whether it happened |
+| Meetings | "We'll respect each other's time." | "Meetings start and end on time. Agendas go out 24 hours ahead, and we release the meeting time if there's nothing for the agenda." | Observable actions with a clear trigger; also serves people who need prep time |
+| Responsiveness | "We'll be responsive." | "We respond to messages within one working day. For anything urgent, call or text. Otherwise, we won't expect a same-day reply." | Defines what "responsive" means and separates urgent from non-urgent |
 | Decisions | "We'll make decisions together." | "For decisions that affect everyone, we gather input for a week, then the project lead decides and explains the reasoning. For small decisions, whoever owns the task decides." | Clarifies *how* "together" works and who holds authority |
 
 Here is an example that includes all five ingredients:
 
-> "We'll all keep Fridays free of internal meetings so people who need uninterrupted time can do deep work. If something urgent comes up, anyone can ask for an exception, and the team lead decides. If we notice this isn't working, anyone can raise it at our monthly check-in, and we'll revisit it."
+> "We'll all keep Fridays free of internal meetings so people who need uninterrupted time can do deep work. If something urgent comes up, anyone can ask for an exception, and the team lead decides. If we notice this isn't working, anyone can raise it at our next check-in, and we'll revisit it."
 
-It is specific (no Friday meetings), tied to a need (protected focus time), has a plan for exceptions (how to ask, who decides), and has a review point (the monthly check-in). It also only works if the team agreed to it together.
+It is specific (no Friday meetings), tied to a need (protected focus time), has a plan for exceptions (how to ask, who decides), and has a review point (the regular check-in). It also only works if the team agreed to it together.
 
 ### Sounds Good, but Is It Tied to a Need?
 
@@ -244,9 +257,16 @@ An agreement can be specific and still fail the test, because it is borrowed fro
 
 The question to ask is: **What need does this serve, and whose need is it?** An agreement that comes from one person's need isn't automatically wrong. "I need agendas ahead of time" can become a team agreement if others see the value or can easily accommodate it. The point isn't that everyone shares the need. It is that the need is visible, so people can make a real choice instead of agreeing to something that sounds good.
 
+Because agreements should be based on the needs of the actual humans trying to work together, they should be built by the team, for the team and revisited whenever team composition shifts. Some moments when it is especially worth having this conversation include:
+
+- At the start of a meeting you are facilitating for a new group or a group that comes together infrequently
+- At the beginning of a new year or new project
+- When team membership or leadership changes
+- When you begin working with a new client or partner
+
 ## Starting the Conversation
 
-Working agreements can be built through many kinds of conversations, from a quick check at the start of a meeting to a more in depth team process. When working with a new client or partner, an initial intake conversation is a great way to elicit the ingredients for working agreements. We do this at the start of a relationship, not once friction appears, so that we can show up in the way our partners expect and enjoy.
+Working agreements can be built through many kinds of conversations, from a quick check in at the start of a meeting to a more in depth team process. When working with a new client or partner, an initial intake conversation is a great way to elicit material for working agreements. We do this at the start of a relationship, not once friction appears, so that we can show up in the way our partners expect and enjoy.
 
 ### Sample Intake Conversation
 
@@ -270,7 +290,7 @@ TBD
 You don't need to use every lens every time. Match the depth of the conversation to the relationship and the level of trust:
 
 | **Situation** | **Approach** |
-| --- | --- |
+| -- | ---- |
 | A new client or short-term collaboration | A light work style questionnaire: quick, practical, and low-vulnerability |
 | An ongoing team with some trust | Thinking preferences, plus the "you at your best" reflection, to understand each other's defaults and what matters |
 | A team with real trust, or one working through friction | Add the parts reflection, which asks for more openness |
@@ -279,19 +299,30 @@ You don't need to use every lens every time. Match the depth of the conversation
 
 If you're not sure where to start, here is a menu of topics that agreements commonly cover:
 
+- Equitable participation and inclusivity
+- Communication norms (e.g., openness, honesty, vulnerability)
+- Giving and receiving feedback
 - Communication channels and response times
 - Meetings (purpose, length, agendas, who attends)
 - Availability and working hours
 - Review and feedback (how much time, in what form)
-- Decision making and who decides
-- Tools and platforms
+- Decision making authority and model (scope and who and how we make decisions)
 - How we handle disagreements, mistakes, and slipped agreements
+
+### Tool Highlight: Min Specs
+
+[Min Specs](https://www.liberatingstructures.com/14-min-specs/) is a Liberating Structure well suited to developing working agreements, especially with experimental thinkers who may be wary of lots of rules. Individuals brainstorm the things the group *must* do or *must not* do to achieve its purpose, share in pairs or small groups, and then pare the list down to the minimum set of rules the group could follow and still achieve its purpose. It pairs naturally with [1-2-4-All](https://www.liberatingstructures.com/1-1-2-4-all/) for engaging everyone. For more on these and other microstructures, see the [Effective Meetings module](https://legacyworksgroup.github.io/inclusive-facilitation/content/meetings.html#tool-highlights-microstructures).
 
 ## Practice: Co-developing Working Agreements
 
 You've seen the ingredients and a real-world example. Now it is time to try it. Your drafts don't need to be perfect. We are practicing the process.
 
-::: {.callout-note title="Activity: Drafting Working Agreements"}
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Drafting Working Agreements
+
+:::{.panel-tabset}
+### Part 1 - Pair Discussion
+
 In small groups of 3-4:
 
 TBD
@@ -299,16 +330,20 @@ TBD
 **Steps**
 
 1. Each person shares one need and one offer from the journaling activity
-2. As a group, choose two or three to turn into agreements
-3. Check each draft against the five ingredients
-:::
+2. As a group, choose two or three to turn into agreements that meet the needs of your group members in this scenario
+3. Check each draft agreement against the five ingredients
 
-::: {.callout-warning title="Discussion: Debriefing the Practice"}
+### Part 2 - Whole-Class Discussion
+
+As a whole class, let's discuss:
+
 - Which ingredients were easy to meet? Which were hard?
 - Whose needs showed up in your draft? Whose might have been left out?
 - What did you notice about the process, as someone who may run it?
 - What would you do differently with a real team?
+
 :::
+::::
 
 ## Taking It Back
 
@@ -317,7 +352,7 @@ The point of this session is to equip you to use these tools in your own work: w
 - **Start with the "why."** People are more willing to engage when they understand what agreements are for and what's in it for them.
 - **Choose the right depth for the situation.** A new client may only need a few quick work style questions. A longer-standing team may be ready for more.
 - **Make the process as inclusive as the content.** Use the same moves you would use in any good meeting: give people time to think before sharing, offer different ways to contribute, and invite quieter voices.
-- **Name the need behind every agreement.** If you can't, it may be a candidate for revisiting.
+- **Name the need behind every agreement.** If you can't, it may be a candidate for dropping or revising.
 - **Plan to revisit.** Teams change, and so do needs.
 
 ### Revisiting Agreements
@@ -340,10 +375,11 @@ And one more time, the question that ties it all together: **What do I need, wha
 
 ### Papers & Books
 
-- Herrmann, N. *The Whole Brain Business Book*. McGraw-Hill. <!-- TODO: add edition/year -->
-- Schwartz, R. *No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model*. Sounds True. 2021.
 - Brown, B. *Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.* Random House. 2018.
+- Herrmann, N. *The Whole Brain Business Book*. McGraw-Hill. 2015.
 - Lipmanowicz & McCandless. *The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation*. Liberating Structures Press. 2014.
+- McCandless, K. and N. White. *The Liberating Structures Fieldbook: Flipping the Script on Meetings, Plannings, and Progress.* Liberating Structures Press. 2026.
+- Schwartz, R. *No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model*. Sounds True. 2021.
 
 ### Websites
 
