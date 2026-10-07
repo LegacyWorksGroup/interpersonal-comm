@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,14 +43,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b626d73c4c936ccc3cb08be7d45d1df6.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-1a13c2f7445dd019195fe4fd3f7ce2c0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-e08aa6084cd93c6cab8f1380269fe6ef.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-1a13c2f7445dd019195fe4fd3f7ce2c0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-538605b5dc804020c1b57e6deb848331.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-1bbcdb557a0435495bc8b5cb4633ddaa.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-538605b5dc804020c1b57e6deb848331.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -375,7 +378,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This session will unpack what makes you and your colleagues tick and the implications for how your team works together. We’ll explore individual thinking preferences, work styles, and values to deepen understanding and empathy across your team. Participants will gain practice in co-developing working agreements to ensure an inclusive and supportive environment in which all team members can show up fully and do their best work.</p>
+<p>Much of the friction on teams comes not from bad intentions, but from expectations nobody ever said out loud. One person assumes a quick reply on email is part of the job, while another expects to answer at the end of the day. One wants an agenda a day ahead, and another is happiest improvising. Neither is wrong. They just have different needs and defaults, and no one has talked about them.</p>
+<p>This session will unpack what makes you and your colleagues or collaborators tick and the implications for how your team works together. We’ll explore individual thinking preferences, work styles, and values to deepen understanding and empathy across your team. Participants will gain practice in co-developing working agreements to ensure an inclusive and supportive environment in which all team members can show up fully and do their best work.</p>
 <div class="callout callout-style-default callout-tip no-icon callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
 <div class="callout-icon-container">
@@ -399,8 +403,592 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+<div class="callout callout-style-default callout-tip callout-titled" title="Learning Objectives">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Learning Objectives
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>After completing this module you will be able to:</p>
+<ul>
+<li>Recognize the diversity of thinking and work style preferences across your team and understand how these preferences help shape workplace expectations and behaviors</li>
+<li>Co-develop supportive working agreements for your collaborative teams</li>
+</ul>
+<section id="why-understand-your-team" class="level2">
+<h2 class="anchored" data-anchor-id="why-understand-your-team">Why Understand Your Team?</h2>
+<p>This session is organized around a single question:</p>
+<blockquote class="blockquote">
+<p><strong>What do I need, what do you need, and how do we agree to work together so everyone can do their best?</strong></p>
+</blockquote>
+<p>We will look at it through two lenses and then put them to work:</p>
+<ul>
+<li><strong>Thinking preferences</strong> help us understand <em>how I like to work</em>: what we reach for, expect, and enjoy when things are going well.</li>
+<li><strong>Our many parts</strong> help us understand <em>what happens when it gets hard</em>: how different parts of us can take over under pressure.</li>
+<li><strong>Working agreements</strong> are how a team plans for both.</li>
+</ul>
+<p>We start with preferences because they are the easiest to talk about, and then go a layer deeper. You can borrow this sequence when you work with your own teams and clients: begin with what is low-risk and easy to discuss, then build toward what takes more trust.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Pre-work: Thinking Preferences Quiz">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Pre-work: Thinking Preferences Quiz
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Before the session, take this <a href="https://docs.google.com/document/d/1XZD_7oVnS6JoFVUfhhXb3pMgSleW_1AK4YDsMEvlwgI/copy">short quiz</a> to understand your own thinking preferences better. Note which quadrant(s) you score highest in.</p>
+<p>No time for the quiz? Read the quadrant descriptions below and pick the one that sounds most like you.</p>
+</div>
+</div>
+</section>
+<section id="thinking-preferences-the-whole-brain-model" class="level2">
+<h2 class="anchored" data-anchor-id="thinking-preferences-the-whole-brain-model">Thinking Preferences: The Whole Brain Model</h2>
+<p>People have different thinking preferences, and those preferences influence what we expect and enjoy in group processes. Ned Herrmann’s Whole Brain Model offers a simple, memorable way to talk about those differences.</p>
+<p>Herrmann’s model uses the brain as a metaphor. The <strong>neocortex</strong> is associated with intellectual, cerebral thinking and the <strong>limbic system</strong> with instinctive, emotional thinking. The <strong>left hemisphere</strong> is associated with rational, analytical, systematic thinking, and the <strong>right hemisphere</strong> with intuitive, artistic thinking. Combining these gives four quadrants, each associated with a different thinking style. As with any model, treat it as a useful lens and not a literal map of the brain.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/whole-brain-model.png" class="img-fluid figure-img"></p>
+<figcaption>Top-down image of a human brain divided into four sections next to a circle divided into the same sections. Top left of both is blue, labeled ‘analytical’ in the circle. Top right is yellow, labeled ‘experimental’ in the circle. Bottom right is red and labeled ‘relational’ in circle. Bottom left is green and is labeled ‘practical’ in circle. The circle also labels the lines separating each pair of adjacent quadrants as follows: analytical and experimental is ‘intellectual’, experimental and relational is ‘intuitive’, relational and practical is ‘instinctive’, and practical and analytical is ‘rational’.</figcaption>
+</figure>
+</div>
+<p><em>Ned Herrmann’s Whole Brain Model</em></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Quadrant</strong></th>
+<th><strong>Thinking style</strong></th>
+<th><strong>Tends to ask</strong></th>
+<th><strong>Expects</strong></th>
+<th><strong>Enjoys</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>A - Blue</strong></td>
+<td>Analytical</td>
+<td><em>What?</em></td>
+<td>Clear, concise information; well-articulated ideas; accuracy and certainty</td>
+<td>A good debate; critical analysis; readings</td>
+</tr>
+<tr class="even">
+<td><strong>B - Green</strong></td>
+<td>Practical</td>
+<td><em>When?</em></td>
+<td>Step-by-step unfolding; a detailed program; punctuality; an explanation of how</td>
+<td>A structured approach; low risk; concrete examples</td>
+</tr>
+<tr class="odd">
+<td><strong>C - Red</strong></td>
+<td>Relational</td>
+<td><em>Who?</em></td>
+<td>Involvement with others; personal anecdotes; an experiential approach; feelings to be considered</td>
+<td>The personal touch; group discussion; harmony</td>
+</tr>
+<tr class="even">
+<td><strong>D - Yellow</strong></td>
+<td>Experimental</td>
+<td><em>Why?</em></td>
+<td>An overview; a conceptual framework; freedom to explore; analogies and metaphors; visuals</td>
+<td>Initiative and imagination; connections to other approaches; newness and fun</td>
+</tr>
+</tbody>
+</table>
+<p>Most of us identify with more than one quadrant. Together, they describe a complex self made up of our rational, theoretical self; our ordered, safekeeping self; our emotional, interpersonal self; and our imaginative, experimental self. Our highest-scoring quadrant is where you tend to start; the others are still part of you.</p>
+<p>Why does this matter for teams and collaboratives? Because each thinking style brings different strengths and expectations for teamwork. The analytical colleague who asks for the data, the practical colleague who wants a clear plan and timeline, the relational colleague who wants to check in first, and the experimental colleague who wants to explore the big picture are all contributing something. Conflict can arise when each assumes their way is simply how work is done.</p>
+<p>or more on how thinking styles shape meeting design, see <a href="https://legacyworksgroup.github.io/inclusive-facilitation/content/meetings.html#designing-meetings-for-all-thinking-styles">Designing Meetings for All Thinking Styles</a> in the Effective Meetings module.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Activity: Expect and Enjoy">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Activity: Expect and Enjoy
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Part 1</strong></p>
+<p>On your own:</p>
+<ul>
+<li>Pick one thinking style, the one you scored highest in (if you have a tie, just pick one)</li>
+</ul>
+<p><strong>Part 2</strong></p>
+<p>In the shared EasyRetro board:</p>
+<ul>
+<li>Go to the columns for your style</li>
+<li>Brainstorm things that make for a good small group or team process <strong>for you</strong>, and things that frustrate you (likes and dislikes)</li>
+<li>Answer based primarily on the thinking preference you chose</li>
+</ul>
+<p><strong>Part 3</strong></p>
+<p>On your own:</p>
+<ul>
+<li>Read over the other columns</li>
+</ul>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning callout-titled" title="Discussion: What Strikes You?">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Discussion: What Strikes You?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>What strikes you as you read the other columns?</li>
+<li>Where do you see overlap, and where do you see a real difference in what people expect?</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="our-many-parts" class="level2">
+<h2 class="anchored" data-anchor-id="our-many-parts">Our Many Parts</h2>
+<p>The Whole Brain Model gives us shared language for differences in how people work. But it describes our <em>preferences</em>, what we reach for when things are going well. We are not always at our best, and sometimes a different part of us shows up.</p>
+<p><strong>Internal Family Systems (IFS)</strong> is a model from psychology, developed by Richard Schwartz, that starts from a simple observation: all of us have multiple sub-parts. They have different feelings, motives, and ways of responding, and they compete for control and influence how we show up at any given moment.</p>
+<p>A helpful way to picture this is <strong>an internal bus</strong>. You are on the bus, and so are all of your parts. At any given moment, one of them is in the driver’s seat, whether or not you are aware of it. The part that jumps in with solutions, the part that goes quiet, the part that gets defensive, and the part that wants everyone to get along may each take a turn at the wheel. Even the same person can show up quite differently depending on what is going on.</p>
+<p>Two ideas make this lens especially useful for teams:</p>
+<ul>
+<li><strong>All of our parts have positive intentions.</strong> Each is trying to help or protect us in some way, and each carries hope and wisdom. The part that gets defensive in a feedback conversation, for instance, may be trying to protect us from feeling like we’ve failed.</li>
+<li><strong>Awareness creates choice.</strong> We cannot always control which part reaches for the wheel, but when we notice who is driving, we have more room to respond thoughtfully instead of simply reacting.</li>
+</ul>
+<p>A note on how we use this: we are borrowing IFS as a reflection tool for self-awareness at work. It is not a form of therapy, and nothing here requires you to share more than you want to.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Activity: Who's been driving your bus?">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Activity: Who’s been driving your bus?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Part 1</strong></p>
+<p>On your own:</p>
+<ul>
+<li>Reflect silently on this question:
+<ul>
+<li>Which part of me has been most active this week? Who’s been driving your bus recently?</li>
+<li>What is that part trying to do for me? What is it afraid of or hoping for?</li>
+</ul></li>
+</ul>
+<p><strong>Part 2</strong></p>
+<p>In pairs:</p>
+<ul>
+<li>Share what you noticed. Share only what you are comfortable sharing.</li>
+</ul>
+</div>
+</div>
+<section id="tool-highlight-reflection-prompts-for-your-parts" class="level3">
+<h3 class="anchored" data-anchor-id="tool-highlight-reflection-prompts-for-your-parts">Tool Highlight: Reflection Prompts for Your Parts</h3>
+<p>You can use these prompts on your own, in a journal, or in a conversation with a trusted colleague. They work best when you ask them with curiosity rather than judgment.</p>
+<ul>
+<li>Which part of me has been most active this week? What was going on when it showed up?</li>
+<li>What is that part trying to do for me? What is it afraid of or hoping for?</li>
+<li>How does it tend to show up in meetings or in conversations with teammates?</li>
+<li>What does it need to feel more settled?</li>
+<li>What would I want my teammates to know or do to help the part of me that does my best work take the wheel?</li>
+</ul>
+</section>
+<section id="tool-highlight-core-values-optional" class="level3">
+<h3 class="anchored" data-anchor-id="tool-highlight-core-values-optional">Tool Highlight: Core Values (Optional)</h3>
+<p>Our values are another way to understand what is driving us, and what matters so much that we feel it when it is crossed. If you want to go deeper on this thread, Brené Brown’s work on values offers a practical starting point: scan a <a href="https://brenebrown.com/resources/dare-to-lead-list-of-values/">list of values</a>, narrow to the two or three that are most central to you, and ask what it looks like when you are living them, and what it feels like when you aren’t.</p>
+</section>
+</section>
+<section id="you-at-your-best" class="level2">
+<h2 class="anchored" data-anchor-id="you-at-your-best">You at Your Best</h2>
+<p>We now have two lenses: how we prefer to work, and what shows up under stress. This next step pulls them together around one question: <strong>what helps <em>you</em> do your best work?</strong></p>
+<div class="callout callout-style-default callout-note callout-titled" title="Activity: Guided Journaling">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Activity: Guided Journaling
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>On your own:</p>
+<ul>
+<li>Reflect on a work experience, at LegacyWorks or elsewhere, that felt satisfying, enlivening, and productive. It should be a time that reflects you at your best. Then jot down some notes in response to these questions:
+<ul>
+<li><em>What were you doing?</em></li>
+<li><em>What were others doing?</em></li>
+<li><em>What enabled that great work experience?</em></li>
+<li><em>What helped you to be your best?</em></li>
+<li><em>What do you really value?</em></li>
+<li><em>What is most important to you when you think about how you want your work environment to feel, how you want to show up, and how you want to be treated?</em></li>
+</ul></li>
+</ul>
+<p>Read back over what your wrote. Circle words or phrases that stand out to you. Distill your notes into two or three things you need to do your best work, and one or two things you offer a team.</p>
+<p>Look at what you wrote. You just named what you need. Now imagine everyone on a team did the same, and most of it was never said out loud. How does a team figure out what everyone needs, and then act in accordance with that?</p>
+<section id="working-agreements" class="level2">
+<h2 class="anchored" data-anchor-id="working-agreements">Working Agreements</h2>
+<p>One way is through <strong>working agreements</strong>: statements of how we will show up with and for each other.</p>
+<p><strong>Why are they valuable?</strong> Working agreements:</p>
+<ul>
+<li>Allow team members to communicate what is important to them and how they like to work</li>
+<li>Help create the conditions for everyone to show up as the best version of themselves</li>
+<li>Increase mutual accountability, because expectations are visible and shared</li>
+</ul>
+<section id="tool-highlight-what-to-call-them" class="level3">
+<h3 class="anchored" data-anchor-id="tool-highlight-what-to-call-them">Tool Highlight: What to Call Them</h3>
+<p>You will hear working agreements called many things. The names overlap, and what matters more than the label is whether the team made them together and they do real work. That said, the terms carry slightly different connotations, so choose the one that best fits your team culture and context.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Term</strong></th>
+<th><strong>Typical feel</strong></th>
+<th><strong>Where it fits best</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Working agreements</strong></td>
+<td>Practical and team-made: how we will work together day to day</td>
+<td>Ongoing teams and project teams</td>
+</tr>
+<tr class="even">
+<td><strong>Ground rules</strong></td>
+<td>Short, often set by a facilitator, for a particular meeting or session</td>
+<td>One-off meetings, workshops, and convenings</td>
+</tr>
+<tr class="odd">
+<td><strong>Norms</strong></td>
+<td>Can describe how a group <em>actually</em> behaves as well as how it intends to</td>
+<td>Groups reflecting on or reshaping their existing culture</td>
+</tr>
+<tr class="even">
+<td><strong>Principles</strong></td>
+<td>Higher level and values-based, less behavioral</td>
+<td>Guiding the overall approach of a collaborative, alongside agreements</td>
+</tr>
+<tr class="odd">
+<td><strong>Code of conduct</strong></td>
+<td>Formal, often organization-wide, tends to imply standards and consequences</td>
+<td>Organizations, large communities, and events</td>
+</tr>
+<tr class="even">
+<td><strong>Collaboration agreement</strong></td>
+<td>Partnership-flavored, can sound contract-like</td>
+<td>Multi-organization collaboratives and client partnerships</td>
+</tr>
+</tbody>
+</table>
+<p>Words like “rules” and “code of conduct” can sound imposed, while “agreement” signals shared ownership. When you work with a client or a larger collaborative, check what language feels comfortable to them. Or ask the group what they want to call it. How people respond is a quick test of whether they feel ownership.</p>
+</section>
+<section id="where-might-we-need-them" class="level3">
+<h3 class="anchored" data-anchor-id="where-might-we-need-them">Where Might We Need Them?</h3>
+<p>Working agreements are useful anywhere people work together over time:</p>
+<ul>
+<li><strong>Internal teams</strong> - to set expectations for communication, meetings, availability, and decision making</li>
+<li><strong>Collaboratives and partnerships</strong> - where no one is in charge by default and agreements are part of setting the culture of the collaborative</li>
+<li><strong>Clients and consulting engagements</strong> - to understand and show up in the way your client expects and enjoys</li>
+<li><strong>Communities</strong> - to define how members engage with each other</li>
+</ul>
+<p>Moments when it is especially worth having the conversation:</p>
+<ul>
+<li>At the start of a meeting you are facilitating</li>
+<li>At the beginning of a new year or project</li>
+<li>When membership or leadership changes</li>
+<li>When you begin working with a new client</li>
+</ul>
+</section>
+</section>
+<section id="ingredients-of-a-good-agreement" class="level2">
+<h2 class="anchored" data-anchor-id="ingredients-of-a-good-agreement">Ingredients of a Good Agreement</h2>
+<p>Not all agreements are equally useful. “Communicate openly” and “respect each other’s time” sound good, but they don’t tell anyone what to do. Strong agreements tend to share five ingredients:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Ingredient</strong></th>
+<th><strong>What it means</strong></th>
+<th><strong>A test question</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Specific and behavioral</strong></td>
+<td>Says who does what, by when, so you could tell whether it happened</td>
+<td><em>Who does what, by when, and how would we know?</em></td>
+</tr>
+<tr class="even">
+<td><strong>Tied to a real need</strong></td>
+<td>Exists because it supports how people work best, not because it sounds good</td>
+<td><em>What need does this serve, and whose need is it?</em></td>
+</tr>
+<tr class="odd">
+<td><strong>Co-created</strong></td>
+<td>Built with everyone who is expected to follow it, not handed down</td>
+<td><em>Did everyone who is expected to follow this help shape it?</em></td>
+</tr>
+<tr class="even">
+<td><strong>Plans for exceptions</strong></td>
+<td>Says what happens when it can’t be followed or gets broken, and who decides</td>
+<td><em>What happens when this doesn’t work, and who decides?</em></td>
+</tr>
+<tr class="odd">
+<td><strong>Revisited</strong></td>
+<td>Includes a point to check whether it’s working and adjust</td>
+<td><em>When will we check whether it’s working?</em></td>
+</tr>
+</tbody>
+</table>
+<p>Some of these ingredients live in the wording of the agreement (specific and behavioral, tied to a need, plans for exceptions). Others live in how the team gets there (co-created, revisited). You can’t see those two on the page, but they make the difference between an agreement people follow and a poster on the wall.</p>
+<section id="weak-and-strong-examples" class="level3">
+<h3 class="anchored" data-anchor-id="weak-and-strong-examples">Weak and Strong Examples</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Context</strong></th>
+<th><strong>Weak</strong></th>
+<th><strong>Strong</strong></th>
+<th><strong>What the strong version adds</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Communication</td>
+<td>“We’ll communicate openly.”</td>
+<td>“If you’re blocked or going to miss a deadline, tell the team in Slack as soon as you know, not at the next check-in.”</td>
+<td>Specific and behavioral: you could tell whether it happened</td>
+</tr>
+<tr class="even">
+<td>Meetings</td>
+<td>“We’ll respect each other’s time.”</td>
+<td>“Meetings start and end on time. Agendas go out 24 hours ahead, and we skip the meeting if there’s no agenda.”</td>
+<td>Observable actions with a clear trigger; also serves people who need prep time</td>
+</tr>
+<tr class="odd">
+<td>Responsiveness</td>
+<td>“We’ll be responsive.”</td>
+<td>“We respond to Slack within one working day. For anything urgent, call or text. Otherwise, we won’t expect a same-day reply.”</td>
+<td>Defines what “responsive” means and separates urgent from non-urgent</td>
+</tr>
+<tr class="even">
+<td>Feedback</td>
+<td>“We’ll give honest feedback.”</td>
+<td>“We’ll share feedback on drafts in comments, with at least two days for review, and start with what’s working.”</td>
+<td>Names the channel, timing, and format</td>
+</tr>
+<tr class="odd">
+<td>Decisions</td>
+<td>“We’ll make decisions together.”</td>
+<td>“For decisions that affect everyone, we gather input for a week, then the project lead decides and explains the reasoning. For small decisions, whoever owns the task decides.”</td>
+<td>Clarifies <em>how</em> “together” works and who holds authority</td>
+</tr>
+</tbody>
+</table>
+<p>Here is an example that includes all five ingredients:</p>
+<blockquote class="blockquote">
+<p>“We’ll all keep Fridays free of internal meetings so people who need uninterrupted time can do deep work. If something urgent comes up, anyone can ask for an exception, and the team lead decides. If we notice this isn’t working, anyone can raise it at our monthly check-in, and we’ll revisit it.”</p>
+</blockquote>
+<p>It is specific (no Friday meetings), tied to a need (protected focus time), has a plan for exceptions (how to ask, who decides), and has a review point (the monthly check-in). It also only works if the team agreed to it together.</p>
+</section>
+<section id="sounds-good-but-is-it-tied-to-a-need" class="level3">
+<h3 class="anchored" data-anchor-id="sounds-good-but-is-it-tied-to-a-need">Sounds Good, but Is It Tied to a Need?</h3>
+<p>An agreement can be specific and still fail the test, because it is borrowed from a general idea of what good teams do or from one person’s preference, instead of coming from the people in the room.</p>
+<ul>
+<li><strong>“No emails after 6 pm.”</strong> Sounds like good work-life balance, but it solves a problem nobody has if the team spans time zones or some people prefer to clear their inbox in the evening. A need-based version might be: “Nothing sent after 6 pm requires a response before 10 am the next day,” which addresses the real concern of not feeling on call.</li>
+<li><strong>“Everyone keeps their camera on.”</strong> Sounds like it builds connection, but it adds friction for someone with a poor connection, a need to move around, or camera fatigue. The underlying need, feeling connected and knowing people are engaged, can be met in other ways.</li>
+<li><strong>“We’ll start every meeting with a check-in round.”</strong> Great for relational thinkers, but it may feel like a time-waster to someone who wants to get to the agenda. If no one on the team has expressed a need for it, it is a nice idea and not (yet) an agreement.</li>
+</ul>
+<p>The question to ask is: <strong>What need does this serve, and whose need is it?</strong> An agreement that comes from one person’s need isn’t automatically wrong. “I need agendas ahead of time” can become a team agreement if others see the value or can easily accommodate it. The point isn’t that everyone shares the need. It is that the need is visible, so people can make a real choice instead of agreeing to something that sounds good.</p>
+</section>
+</section>
+<section id="starting-the-conversation" class="level2">
+<h2 class="anchored" data-anchor-id="starting-the-conversation">Starting the Conversation</h2>
+<p>Working agreements can be built through many kinds of conversations, from a quick check at the start of a meeting to a more in depth team process. When working with a new client or partner, an initial intake conversation is a great way to elicit the ingredients for working agreements. We do this at the start of a relationship, not once friction appears, so that we can show up in the way our partners expect and enjoy.</p>
+<section id="sample-intake-conversation" class="level3">
+<h3 class="anchored" data-anchor-id="sample-intake-conversation">Sample Intake Conversation</h3>
+<p>TBD</p>
+</section>
+<section id="intake-questions" class="level3">
+<h3 class="anchored" data-anchor-id="intake-questions">Intake Questions</h3>
+<p>TBD</p>
+<p><strong>Communication</strong></p>
+<p><strong>Availability</strong></p>
+<p><strong>Review and feedback</strong></p>
+<p><strong>Platforms and tools</strong></p>
+</section>
+<section id="matching-depth-to-context" class="level3">
+<h3 class="anchored" data-anchor-id="matching-depth-to-context">Matching Depth to Context</h3>
+<p>You don’t need to use every lens every time. Match the depth of the conversation to the relationship and the level of trust:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Situation</strong></th>
+<th><strong>Approach</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A new client or short-term collaboration</td>
+<td>A light work style questionnaire: quick, practical, and low-vulnerability</td>
+</tr>
+<tr class="even">
+<td>An ongoing team with some trust</td>
+<td>Thinking preferences, plus the “you at your best” reflection, to understand each other’s defaults and what matters</td>
+</tr>
+<tr class="odd">
+<td>A team with real trust, or one working through friction</td>
+<td>Add the parts reflection, which asks for more openness</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="what-agreements-can-be-about" class="level3">
+<h3 class="anchored" data-anchor-id="what-agreements-can-be-about">What Agreements Can Be About</h3>
+<p>If you’re not sure where to start, here is a menu of topics that agreements commonly cover:</p>
+<ul>
+<li>Communication channels and response times</li>
+<li>Meetings (purpose, length, agendas, who attends)</li>
+<li>Availability and working hours</li>
+<li>Review and feedback (how much time, in what form)</li>
+<li>Decision making and who decides</li>
+<li>Tools and platforms</li>
+<li>How we handle disagreements, mistakes, and slipped agreements</li>
+</ul>
+</section>
+</section>
+<section id="practice-co-developing-working-agreements" class="level2">
+<h2 class="anchored" data-anchor-id="practice-co-developing-working-agreements">Practice: Co-developing Working Agreements</h2>
+<p>You’ve seen the ingredients and a real-world example. Now it is time to try it. Your drafts don’t need to be perfect. We are practicing the process.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Activity: Drafting Working Agreements">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Activity: Drafting Working Agreements
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>In small groups of 3-4:</p>
+<p>TBD</p>
+<p><strong>Steps</strong></p>
+<ol type="1">
+<li>Each person shares one need and one offer from the journaling activity</li>
+<li>As a group, choose two or three to turn into agreements</li>
+<li>Check each draft against the five ingredients</li>
+</ol>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning callout-titled" title="Discussion: Debriefing the Practice">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Discussion: Debriefing the Practice
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Which ingredients were easy to meet? Which were hard?</li>
+<li>Whose needs showed up in your draft? Whose might have been left out?</li>
+<li>What did you notice about the process, as someone who may run it?</li>
+<li>What would you do differently with a real team?</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="taking-it-back" class="level2">
+<h2 class="anchored" data-anchor-id="taking-it-back">Taking It Back</h2>
+<p>The point of this session is to equip you to use these tools in your own work: with your internal teams, with clients, and in the collaborative teams we facilitate. A few reminders as you do:</p>
+<ul>
+<li><strong>Start with the “why.”</strong> People are more willing to engage when they understand what agreements are for and what’s in it for them.</li>
+<li><strong>Choose the right depth for the situation.</strong> A new client may only need a few quick work style questions. A longer-standing team may be ready for more.</li>
+<li><strong>Make the process as inclusive as the content.</strong> Use the same moves you would use in any good meeting: give people time to think before sharing, offer different ways to contribute, and invite quieter voices.</li>
+<li><strong>Name the need behind every agreement.</strong> If you can’t, it may be a candidate for revisiting.</li>
+<li><strong>Plan to revisit.</strong> Teams change, and so do needs.</li>
+</ul>
+<section id="revisiting-agreements" class="level3">
+<h3 class="anchored" data-anchor-id="revisiting-agreements">Revisiting Agreements</h3>
+<p>Agreements aren’t set in stone. Build in regular check-ins, such as a standing agenda item once a quarter, or a trigger like a change in membership or leadership. Some simple prompts:</p>
+<ul>
+<li>What’s working?</li>
+<li>What’s not working, or not getting followed?</li>
+<li>What’s changed since we wrote these?</li>
+<li>Is anything missing?</li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled" title="Discussion: What Will You Try First?">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Discussion: What Will You Try First?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>You’ll do this with your own teams and partners. What do you want to try first?</li>
+<li>What do you need in order to start that conversation?</li>
+</ul>
+</div>
+</div>
+<p>And one more time, the question that ties it all together: <strong>What do I need, what do you need, and how do we agree to work together so everyone can do their best?</strong></p>
+</section>
+</section>
+<section id="additional-resources" class="level2">
+<h2 class="anchored" data-anchor-id="additional-resources">Additional Resources</h2>
+<section id="papers-books" class="level3">
+<h3 class="anchored" data-anchor-id="papers-books">Papers &amp; Books</h3>
+<ul>
+<li>Herrmann, N. <em>The Whole Brain Business Book</em>. McGraw-Hill. <!-- TODO: add edition/year --></li>
+<li>Schwartz, R. <em>No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model</em>. Sounds True. 2021.</li>
+<li>Brown, B. <em>Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.</em> Random House. 2018.</li>
+<li>Lipmanowicz &amp; McCandless. <em>The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation</em>. Liberating Structures Press. 2014.</li>
+</ul>
+</section>
+<section id="websites" class="level3">
+<h3 class="anchored" data-anchor-id="websites">Websites</h3>
+<ul>
+<li><a href="https://www.liberatingstructures.com/">Liberating Structures: Including and Unleashing Everyone</a></li>
+<li><a href="https://legacyworksgroup.github.io/inclusive-facilitation/content/meetings.html">Effective Meetings module, Inclusive &amp; Effective Group Facilitation Series</a></li>
+</ul>
 
 
+</section>
+</section>
+</div>
+</div>
+</section>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
