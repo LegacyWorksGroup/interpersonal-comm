@@ -11,9 +11,9 @@ This session will unpack what makes you and your colleagues or collaborators tic
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 
-- [{{< fa heart >}} Embrace vulnerability]{.cc-value}
 - [{{< fa heart >}} Empathize]{.cc-value}
 - [{{< fa square-poll-vertical >}} Ensure belonging, access and opportunity]{.cc-result}
+- [{{< fa square-poll-vertical >}} Cultivate leadership]{.cc-result}
 
 
 :::
@@ -106,15 +106,28 @@ On your own:
 
 ## Our Many Parts
 
-The Whole Brain Model gives us shared language for differences in how people work. But it describes our *preferences*, what we reach for when things are going well. We are not always at our best, and sometimes a different part of us shows up.
+The Whole Brain Model gives us shared language for differences in how people work. But it describes our *preferences*, what we reach for when things are going well. But we aren't always at our best. Sometimes you feel overwhelmed, stuck, or burnt out. When you are feeling that way it may seem like the problem exists outside of you - we take on too much work, other people aren't pulling their weight, etc. - but the source of the overwhelm (and the solution) may actually live inside of you.
 
-**Internal Family Systems (IFS)** is a model from psychology, developed by Richard Schwartz, that starts from a simple observation: all of us have multiple sub-parts. They have different feelings, motives, and ways of responding, and they compete for control and influence how we show up at any given moment.
+**Internal Family Systems (IFS)** is a model from psychology, developed by Richard Schwartz, that starts from a simple observation: all of us have multiple sub-parts. They have different needs, fears, and ways of responding, and they compete for control and influence how we show up at any given moment. As [Natalie Rofthels](https://www.lennysnewsletter.com/p/why-no-productivity-hack-will-solve) writes, "Some parts help you manage your time, and other parts help you lose track of time entirely; some think analytically, and others work intuitively and non-linearly; some strive for individual excellence, and others prioritize collaboration with your colleagues; some feel competent and confident, and others criticize you and tell you you’re not enough."
 
-A helpful way to picture this is **an internal bus**. You are on the bus, and so are all of your parts. At any given moment, one of them is in the driver's seat, whether or not you are aware of it. The part that jumps in with solutions, the part that goes quiet, the part that gets defensive, and the part that wants everyone to get along may each take a turn at the wheel. Even the same person can show up quite differently depending on what is going on.
+When we are feeling stuck, it's often because some voices have gotten really loud or are locked in an internal conflict, pulling you in different directions. The trick is to notice and listen to the competing voices within you.
 
-Two ideas make this lens especially useful for teams:
+<p align="center">
+<img src="images/parts-on-my-bus.png" alt="Hand drawn image of eight human characters, each representing different parts of someone's self.">
+<figcaption> My multiple parts </figcaption>
+</p>
+
+A helpful way to picture this is **an internal bus**. You are on the bus, and so are all of your parts. At any given moment, one of them is in the driver's seat, whether or not you are aware of it. The part that jumps in with solutions, the part that gets defensive, and the part that wants everyone to get along may each take a turn at the wheel. Even the same person can show up quite differently depending on what is going on.
+
+<p align="center">
+<img src="images/internal-bus.png" alt="Hand drawn image of a bus with passengers.">
+<figcaption> Your internal bus </figcaption>
+</p>
+
+Three additional ideas make this lens especially useful for teams:
 
 - **All of our parts have positive intentions.** Each is trying to help or protect us in some way, and each carries hope and wisdom. The part that gets defensive in a feedback conversation, for instance, may be trying to protect us from feeling like we've failed.
+- **We each have a wise inner Self.** This Self can help integrate our many parts and facilitate a dialogue among them to move through inner conflict. Ideally this wise Self is in the driver seat most of the time. When the Self is in the driver seat, people describe a feeling of being "centered."
 - **Awareness creates choice.** We cannot always control which part reaches for the wheel, but when we notice who is driving, we have more room to respond thoughtfully instead of simply reacting.
 
 A note on how we use this: we are borrowing IFS as a reflection tool for self-awareness at work. This is not intended as a form of therapy, and nothing here requires you to share more than you want to.
