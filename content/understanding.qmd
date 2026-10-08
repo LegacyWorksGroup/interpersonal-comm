@@ -61,15 +61,14 @@ Herrmann's model uses the brain as a metaphor. The **neocortex** is associated w
 <figcaption> Ned Herrmann's Whole Brain Model </figcaption>
 </p>
 
-*Ned Herrmann's Whole Brain Model*
+**What Each Thinking Style Expects and Enjoys**
 
 | **Quadrant** | **Thinking style** | **Tends to ask** | **Expects** | **Enjoys** |
 | --- | --- | --- | --- | --- |
-| **A - Blue** | Analytical | *What?* | Clear, concise information; well-articulated ideas; accuracy and certainty | A good debate; critical analysis; readings |
-| **B - Green** | Practical | *When?* | Step-by-step unfolding; a detailed program; punctuality; an explanation of how | A structured approach; low risk; concrete examples |
-| **<span style="color:red">C - Red** | Relational<span>** | *Who?* | Involvement with others; personal anecdotes; an experiential approach; feelings to be considered | The personal touch; group discussion; harmony |
-| **D - Yellow** | Experimental | *Why?* | An overview; a conceptual framework; freedom to explore; analogies and metaphors; visuals | Initiative and imagination; connections to other approaches; newness and fun |
-**<span style="color:red">Relational</span>**
+| **<span style="color:blue">A - Blue<span>** | <span style="color:blue">Analytical<span> | *What?* | Clear, concise information; well-articulated ideas; accuracy and certainty | A good debate; critical analysis; readings |
+| **<span style="color:green">B - Green<span>** | <span style="color:green">Practical<span> | *When?* | Step-by-step unfolding; a detailed program; punctuality; an explanation of how | A structured approach; low risk; concrete examples |
+| **<span style="color:red">C - Red<span>** | <span style="color:red">Relational<span> | *Who?* | Involvement with others; personal anecdotes; an experiential approach; feelings to be considered | The personal touch; group discussion; harmony |
+| **<span style="color:yellow">D - Yellow<span>** | <span style="color:yellow">Experimental<span> | *Why?* | An overview; a conceptual framework; freedom to explore; analogies and metaphors; visuals | Initiative and imagination; connections to other approaches; newness and fun |
 
 Most of us identify with more than one quadrant. Together, they describe a complex self made up of our rational, theoretical self; our ordered, safekeeping self; our emotional, interpersonal self; and our imaginative, experimental self. Your highest-scoring quadrant is where you tend to start, but the others are still part of you.
 
@@ -108,7 +107,7 @@ On your own:
 
 The Whole Brain Model gives us shared language for differences in how people work. But it describes our *preferences*, what we reach for when things are going well. But we aren't always at our best. Sometimes you feel overwhelmed, stuck, or burnt out. When you are feeling that way it may seem like the problem exists outside of you - we take on too much work, other people aren't pulling their weight, etc. - but the source of the overwhelm (and the solution) may actually live inside of you.
 
-**Internal Family Systems (IFS)** is a model from psychology, developed by Richard Schwartz, that starts from a simple observation: all of us have multiple sub-parts. They have different needs, fears, and ways of responding, and they compete for control and influence how we show up at any given moment. As [Natalie Rofthels](https://www.lennysnewsletter.com/p/why-no-productivity-hack-will-solve) writes, "Some parts help you manage your time, and other parts help you lose track of time entirely; some think analytically, and others work intuitively and non-linearly; some strive for individual excellence, and others prioritize collaboration with your colleagues; some feel competent and confident, and others criticize you and tell you you’re not enough."
+Internal Family Systems (IFS) is a model from psychology, developed by Richard Schwartz, that starts from a simple observation: **all of us have multiple sub-parts.** They have different needs, fears, and ways of responding, and they compete for control over how we show up at any given moment. As [Natalie Rofthels](https://www.lennysnewsletter.com/p/why-no-productivity-hack-will-solve) writes, "Some parts help you manage your time, and other parts help you lose track of time entirely; some think analytically, and others work intuitively and non-linearly; some strive for individual excellence, and others prioritize collaboration with your colleagues; some feel competent and confident, and others criticize you and tell you you’re not enough."
 
 When we are feeling stuck, it's often because some voices have gotten really loud or are locked in an internal conflict, pulling you in different directions. The trick is to notice and listen to the competing voices within you.
 
@@ -154,33 +153,55 @@ In pairs:
 
 You can use these prompts on your own, in a journal, or in a conversation with a trusted colleague. They work best when you ask them with curiosity rather than judgment.
 
-- Which part of me has been most active this week? What was going on when it showed up?
-- What is that part trying to do for me? What is it afraid of or hoping for?
-- How does it tend to show up in meetings or in conversations with teammates?
-- What does it need to feel more settled?
-- What would I want my teammates to know or do to help the part of me that does my best work take the wheel?
+- *Which part of me has been most active this week? What was going on when it showed up?*
+- *What is that part trying to do for me? What is it afraid of or hoping for?*
+- *How does it tend to show up in meetings or in conversations with teammates?*
+- *What does it need to feel more settled?*
+- *What would I want my teammates to know or do to help the part of me that does my best work take the wheel?*
 
 ## Core Values
 
-Our values are another way to understand what is driving us, and what matters so much that we feel it when it is crossed. If you want to go deeper on this thread, Brené Brown's work on values offers a practical starting point: scan a [list of values](https://brenebrown.com/resources/dare-to-lead-list-of-values/), narrow to the two or three that are most central to you, and ask what it looks like when you are living them, and what it feels like when you aren't.
+Our values are another way to understand what is driving us. They are the beliefs that are most important to you and that fill you with purpose. They should resonate deeply with how you identify as a person. You may already know what your core values are. 
+
+If you want to discover them, Brené Brown's work offers a practical starting point:
+
+- Scan her [list of values](https://brenebrown.com/resources/dare-to-lead-list-of-values/); feel free to add new values or put these in your own words. 
+- Narrow it down to the two or three that are most central to you. You may want to start by circling 10-20 that resonate with you and then whittling down your list.
+- Your secondary values may be nested under your core values - your commitment to those values is likely fueled by your one to two core values (e.g., my commitment to collaboration is fueled by the value I place on learning and making a difference)
+
+Once you have identified your core values, sharing them with team members or collaborators can be a powerful way to build understanding and empathy. And you can start to practice aligning your behavior more intentionally with your values. Explore the prompts below on your own to deepen your understanding of how your values shape how you show up.
+
+### Tool Highlight: Living into Your Core Values
+
+You can use these prompts on your own, in a journal, or in a conversation with a trusted colleague or friend.
+
+- *What does it feel like when you are living into your values?*
+- *What are early warning signs for you that you are out of integrity with your core values?*
+- *What are 3-4 behaviors that support you in living into each of your core values?*
+- *What are 3-4 slippery behaviors you find yourself tempted to engage in even though they are counter to your core values?*
+- *Who is someone who knows your values and supports your efforts to live into them? What does support from this person look like?*
+- *How does living into your values shape the way you give and receive feedback?*
+- *What can you do as an act of self compassion to support yourself in the hard work of living into your values?*
+
+Read back over what you wrote. Circle words or phrases that stand out to you. Identify a behavior that supports your core values that you want to focus on in the coming months.
 
 ## You at Your Best
 
 We now have three lenses: how we prefer to work, our core values, and what shows up under stress. This next step pulls them together around one question: **what helps *you* do your best work?**
 
 ::::{.callout-warning icon="false"}
-### {{<fa rocket >}} Activity: Guided Journaling"}
+### {{<fa rocket >}} Activity: Guided Journaling
 
 :::{.panel-tabset}
 ### Part 1 - Individual Reflection
 
 Reflect on a work experience, at LegacyWorks or elsewhere, that felt satisfying, enlivening, and productive. It should be a time that reflects you at your best. Then jot down some notes in response to these questions:
-  * *What were you doing?*
-  * *What were others doing?*
-  * *What enabled that great work experience?*
-  * *What helped you to be your best?*
-  * *What do you really value?*
-  * *What is most important to you when you think about how you want your work environment to feel, how you want to show up, and how you want to be treated?*
+  - *What were you doing?*
+  - *What were others doing?*
+  - *What enabled that great work experience?*
+  - *What helped you to be your best?*
+  - *What do you really value?*
+  - *What is most important to you when you think about how you want your work environment to feel, how you want to show up, and how you want to be treated?*
 
 ### - Part 2 - Sensemaking
 
@@ -225,7 +246,7 @@ Working agreements are useful anywhere people work together over time, across th
 - **Communities** - to define how members engage with each other
 
 <p align="right">
-<img src="images/nested-scales.png" alt="Hand drawn image of concentric rings representing nested scales of interaction and change: with self at the center, then team, collaborative, and community. The words "the more than human world" wrap around the right side of the image to indicate the largest scale.">
+<img src="images/nested-scales.png" alt="Hand drawn image of concentric rings representing nested scales of interaction and change: with self at the center, then team, collaborative, and community. The words 'the more than human world' wrap around the right side of the image to indicate the largest scale.">
 <figcaption> LegacyWorks Group nested scales </figcaption>
 </p>
 
@@ -279,24 +300,33 @@ Because agreements should be based on the needs of the actual humans trying to w
 
 ## Starting the Conversation
 
-Working agreements can be built through many kinds of conversations, from a quick check in at the start of a meeting to a more in depth team process. When working with a new client or partner, an initial intake conversation is a great way to elicit material for working agreements. We do this at the start of a relationship, not once friction appears, so that we can show up in the way our partners expect and enjoy.
+Working agreements can be built through many kinds of conversations, from a quick check in at the start of a meeting to a more in depth team process. When working with a new client or partner, an initial intake conversation is a great way to elicit material for working agreements. We do this at the start of a relationship, not once friction appears, so that we can show up in the way our partners expect and enjoy. Below are some example questions you can use when establishing a new partnership or client relationship.
 
-### Sample Intake Conversation
-
-TBD
-
-### Intake Questions
-
-TBD
+### Sample Questions
 
 **Communication**
+- How do you prefer to communicate and what are your urgency levels for each channel, e.g. Slack DMs for general updates, texts for emergencies. If someone on the team needs an immediate response, what’s the best way (email, text, phone call)?
 
-**Availability**
+**Availability & Scheduling**
+- When will you be available for the team? What are your standard working hours? 
+- Do you have preferred times for one type of work over another, e.g. you want to write in the mornings and have meetings in the afternoons?
+- How much advance time do you need for scheduling calls or virtual meetings?
 
-**Review and feedback**
+**Approach to Collaboration**
+- How do you prefer to collaborate? Do you like to confer then divide up tasks and work side by side? Be given specific tasks to complete and then report back? Work on the same task simultaneously (e.g. in a shared doc)?
+- What are your superpowers (strengths)? What are you great at and love? 
+- What’s your kryptonite (weaknesses)? What stresses you out, and how can we navigate that stress? 
+- What do you want help with or want to delegate?
+- A meeting / collaboration pet peeve is…
+- What suggestions do you have for making the best of our collaboration?
+
+**Reflection & Review**
+- I think best by… (e.g. writing, having time to reflect, talking, drawing, moving…)
+- How much advance time do you need for reviewing things?
+- Do you prefer to iterate early drafts or see polished products?
 
 **Platforms and tools**
-
+- What platforms and software tools do you use for sharing documents, communication, virtual meetings? Are there any you cannot use due to institutional restrictions?
 
 ### Matching Depth to Context
 
@@ -334,17 +364,24 @@ You've seen the ingredients and a real-world example. Now it is time to try it. 
 ### {{<fa rocket >}} Activity: Drafting Working Agreements
 
 :::{.panel-tabset}
-### Part 1 - Pair Discussion
+### Part 1 - Small Group Discussion
 
-In small groups of 3-4:
+**The scenario**
 
-TBD
+You've just joined a new collaborative made up of representatives from several organizations working toward a shared community goal. No single organization is in charge, and the group will work together for the next year, meeting virtually once a month. Members have very different amounts of time to give, and some can make decisions on the spot while others need to check with a board or supervisor first. At your first meeting, the group decides to draft working agreements before getting into the work.
 
-**Steps**
+**In small groups of 3-4** (18 minutes)
 
-1. Each person shares one need and one offer from the journaling activity
-2. As a group, choose two or three to turn into agreements that meet the needs of your group members in this scenario
-3. Check each draft agreement against the five ingredients
+You'll play yourself, bringing your own working style and the needs and offers you jotted down in the journaling activity. Choose one person to record in the shared notes document.
+
+1. **Share (4 min).** Going around the group, each person shares one need and one offer. The person whose first name comes first alphabetically starts.
+2. **Notice (3 min).** Where do your needs overlap? Where do they differ?
+3. **Draft (8 min).** Turn two or three of your needs into agreements for this collaborative. Two or three is plenty. Aim for agreements that someone could actually observe.
+4. **Check (3 min).** Test each draft against the five ingredients. Revise anything that falls short.
+
+**You're done when** you have two or three draft agreements and have checked each against the ingredients. They don't need to be perfect. We are practicing the process.
+
+When we return, be ready to share one agreement and why you wrote it that way.
 
 ### Part 2 - Whole-Class Discussion
 
@@ -377,7 +414,8 @@ Agreements aren't set in stone. Build in regular check-ins, such as a standing a
 - What's changed since we wrote these?
 - Is anything missing?
 
-::: {.callout-warning title="Discussion: What Will You Try First?"}
+::: {.callout-warning icon="false" collapse="false"}
+### {{<fa rocket >}} Discussion: What Will You Try First?
 - You'll do this with your own teams and partners. What do you want to try first?
 - What do you need in order to start that conversation?
 :::
