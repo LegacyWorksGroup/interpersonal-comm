@@ -138,8 +138,8 @@ A note on how we use this: we are borrowing IFS as a reflection tool for self-aw
 ### **Part 1** - Individual Reflection
 
 On your own reflect silently on these questions:
-  * Which part of me has been most active this week? Who's been driving your bus recently?
-  * What is that part trying to do for me? What is it afraid of or hoping for?
+- Which part of me has been most active this week? Who's been driving my bus recently?
+- What is that part trying to do for me? What is it afraid of or hoping for?
 
 ### **Part 2** - Pair Discussion
 
@@ -196,20 +196,21 @@ We now have three lenses: how we prefer to work, our core values, and what shows
 ### Part 1 - Individual Reflection
 
 Reflect on a work experience, at LegacyWorks or elsewhere, that felt satisfying, enlivening, and productive. It should be a time that reflects you at your best. Then jot down some notes in response to these questions:
-  - *What were you doing?*
-  - *What were others doing?*
-  - *What enabled that great work experience?*
-  - *What helped you to be your best?*
-  - *What do you really value?*
-  - *What is most important to you when you think about how you want your work environment to feel, how you want to show up, and how you want to be treated?*
+- What were you doing?
+- What were others doing?
+- What enabled that great work experience?
+- What helped you to be your best?
+- What do you really value?
+- What is most important to you when you think about how you want your work environment to feel, how you want to show up, and how you want to be treated?
 
 ### - Part 2 - Sensemaking
 
 Read back over what your wrote. Circle words or phrases that stand out to you. Distill your notes into two or three things you need to do your best work, and one or two things you offer a team.
 
-Look at what you wrote. You just named what you need. Now imagine everyone on a team did the same, and most of it was never said out loud. How does a team figure out what everyone needs, and then act in accordance with that?
 :::
 ::::
+
+You just named what you need. Now imagine everyone on a team did the same, and most of it was never said out loud. How does a team figure out what everyone needs, and then act in accordance with that?
 
 ## Working Agreements
 
@@ -226,7 +227,7 @@ One way is through **working agreements**: statements of how we will show up wit
 You will hear working agreements called many things. The names overlap, and what matters more than the label is whether the team made them together and they do real work. That said, the terms carry slightly different connotations, so choose the one that best fits your team culture and context.
 
 | **Term** | **Typical feel** | **Where it fits best** |
-| --- | --- | --- |
+| -- | ---- | ---- |
 | **Working agreements** | Practical and team-made: how we will work together day to day | Ongoing teams and project teams |
 | **Ground rules** | Short, often set by a facilitator, for a particular meeting or session | One-off meetings, workshops, and convenings |
 | **Norms** | Can describe how a group *actually* behaves as well as how it intends to | Groups reflecting on or reshaping their existing culture |
@@ -246,11 +247,11 @@ Working agreements are useful anywhere people work together over time, across th
 - **Communities** - to define how members engage with each other
 
 <p align="right">
-<img src="images/nested-scales.png" alt="Hand drawn image of concentric rings representing nested scales of interaction and change: with self at the center, then team, collaborative, and community. The words 'the more than human world' wrap around the right side of the image to indicate the largest scale.">
+<img src="images/nested-scales.png" alt="Hand drawn image of concentric rings representing nested scales of interaction and change: with self at the center, then team, collaborative, and community. The words 'the more than human world' wrap around the right side of the image to indicate the largest scale." width="80%"/>
 <figcaption> LegacyWorks Group nested scales </figcaption>
 </p>
 
-You may even want to consider some commitments you want to make to yourself to help your best self to show up in the workplace. Maybe you agree to speak your needs to the group, even when it causes you discomfort, or to get adequate sleep, exercise and nutrition to sustain your energy. What do you need that only you can provide?
+You may even want to consider some commitments you want to make to yourself to help your best self  show up in the workplace. Maybe you agree to speak your needs to the group, even when it causes you discomfort, or to get adequate sleep, exercise and nutrition to sustain your energy. What do you need that only you can provide?
 
 ## Ingredients of a Good Agreement
 
@@ -277,7 +278,7 @@ The first three of these ingredients live in the wording of the agreement. The o
 
 Here is an example that includes all five ingredients:
 
-> "We'll all keep Fridays free of internal meetings so people who need uninterrupted time can do deep work. If something urgent comes up, anyone can ask for an exception, and the team lead decides. If we notice this isn't working, anyone can raise it at our next check-in, and we'll revisit it."
+> "We keep Fridays free of internal meetings so people who need uninterrupted time can do deep work. If something urgent comes up, anyone can ask for an exception, and the team lead decides. If we notice this isn't working, anyone can raise it at our next check-in, and we'll revisit it."
 
 It is specific (no Friday meetings), tied to a need (protected focus time), has a plan for exceptions (how to ask, who decides), and has a review point (the regular check-in). It also only works if the team agreed to it together.
 
@@ -305,14 +306,18 @@ Working agreements can be built through many kinds of conversations, from a quic
 ### Sample Questions
 
 **Communication**
-- How do you prefer to communicate and what are your urgency levels for each channel, e.g. Slack DMs for general updates, texts for emergencies. If someone on the team needs an immediate response, what’s the best way (email, text, phone call)?
+
+- How do you prefer to communicate and what are your urgency levels for each channel, e.g. Slack DMs for general updates, texts for emergencies. 
+- If someone on the team needs an immediate response, what’s the best way (email, text, phone call)?
 
 **Availability & Scheduling**
+
 - When will you be available for the team? What are your standard working hours? 
 - Do you have preferred times for one type of work over another, e.g. you want to write in the mornings and have meetings in the afternoons?
 - How much advance time do you need for scheduling calls or virtual meetings?
 
 **Approach to Collaboration**
+
 - How do you prefer to collaborate? Do you like to confer then divide up tasks and work side by side? Be given specific tasks to complete and then report back? Work on the same task simultaneously (e.g. in a shared doc)?
 - What are your superpowers (strengths)? What are you great at and love? 
 - What’s your kryptonite (weaknesses)? What stresses you out, and how can we navigate that stress? 
@@ -321,12 +326,15 @@ Working agreements can be built through many kinds of conversations, from a quic
 - What suggestions do you have for making the best of our collaboration?
 
 **Reflection & Review**
+
 - I think best by… (e.g. writing, having time to reflect, talking, drawing, moving…)
 - How much advance time do you need for reviewing things?
 - Do you prefer to iterate early drafts or see polished products?
 
 **Platforms and tools**
-- What platforms and software tools do you use for sharing documents, communication, virtual meetings? Are there any you cannot use due to institutional restrictions?
+
+- What platforms and software tools do you use for sharing documents, communication, virtual meetings? 
+- Are there any you cannot use due to institutional restrictions?
 
 ### Matching Depth to Context
 
@@ -397,7 +405,7 @@ As a whole class, let's discuss:
 
 ## Taking It Back
 
-The point of this session is to equip you to use these tools in your own work: with your internal teams, with clients, and in the collaborative teams we facilitate. A few reminders as you do:
+The point of this session is to equip you to use these tools in your own work: with your internal teams, with partners or clients, and in the collaborative teams we facilitate. A few reminders as you do:
 
 - **Start with the "why."** People are more willing to engage when they understand what agreements are for and what's in it for them.
 - **Choose the right depth for the situation.** A new client may only need a few quick work style questions. A longer-standing team may be ready for more.
