@@ -113,7 +113,7 @@ The Whole Brain Model gives us shared language for differences in how people wor
 When we are feeling stuck, it's often because some voices have gotten really loud or are locked in an internal conflict, pulling you in different directions. The trick is to notice and listen to the competing voices within you.
 
 <p align="center">
-<img src="images/parts-on-my-bus.png" alt="Hand drawn image of six human characters, each representing different parts of someone's self - The Creative captioned 'So many beautiful possibilities!' The Perfectionist who says 'It (I) could always be better' The imposter who says 'Why did I think I could do this?' The Planner who says "Clock is ticking!' The Procrastinator whose tag line is 'I'll get to it later' and The Worrier who believes 'This is never going to come together'." width="80%"/>
+<img src="images/parts-on-my-bus.png" alt="Hand drawn image of six human characters, each representing different parts of someone's self - The Creative captioned 'So many beautiful possibilities!' The Perfectionist who says 'It (I) could always be better' The imposter who says 'Why did I think I could do this?' The Planner who says 'Clock is ticking!' The Procrastinator whose tag line is 'I'll get to it later' and The Worrier who believes 'This is never going to come together'." width="80%"/>
 <figcaption> My multiple parts </figcaption>
 </p>
 
