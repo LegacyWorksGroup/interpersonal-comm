@@ -256,7 +256,7 @@ Working agreements are useful anywhere people work together over time, across th
 
 You may even want to consider some commitments you want to make to yourself to help your best self  show up in the workplace. Maybe you agree to speak your needs to the group, even when it causes you discomfort, or to get adequate sleep, exercise and nutrition to sustain your energy. What do you need that only you can provide?
 
-## Ingredients of a Good Agreement
+### Ingredients of a Good Agreement
 
 Not all agreements are equally useful. "Communicate openly" and "respect each other's time" sound good, but they don't tell anyone what to do. Strong agreements tend to share five ingredients:
 
@@ -270,7 +270,7 @@ Not all agreements are equally useful. "Communicate openly" and "respect each ot
 
 The first three of these ingredients live in the wording of the agreement. The others (co-created, revisited) speak to the process for creating and implementing the agreement. These might not be explicit in the language, but they make the difference between an agreement people follow and a poster on the wall.
 
-### Weak and Strong Examples
+#### Weak and Strong Examples
 
 | **Context** | **Weak** | **Strong** | **What the strong version adds** |
 | -- | --- | ---- | ---- |
@@ -285,7 +285,7 @@ Here is an example that includes all five ingredients:
 
 It is specific (no Friday meetings), tied to a need (protected focus time), has a plan for exceptions (how to ask, who decides), and has a review point (the regular check-in). It also only works if the team agreed to it together.
 
-### Sounds Good, but Is It Tied to a Need?
+#### Sounds Good, but Is It Tied to a Need?
 
 An agreement can be specific and still fail the test, because it is borrowed from a general idea of what good teams do or from one person's preference, instead of coming from the people in the room.
 
@@ -302,11 +302,11 @@ Because agreements should be based on the needs of the actual humans trying to w
 - When team membership or leadership changes
 - When you begin working with a new client or partner
 
-## Starting the Conversation
+### Starting the Conversation
 
 Working agreements can be built through many kinds of conversations, from a quick check in at the start of a meeting to a more in depth team process. When working with a new client or partner, an initial intake conversation is a great way to elicit material for working agreements. We do this at the start of a relationship, not once friction appears, so that we can show up in the way our partners expect and enjoy. Below are some example questions you can use when establishing a new partnership or client relationship. And here's an [example agenda](https://docs.google.com/document/d/1RIi55gHzqU_8S_u78dYMd-tC7DonDJHXeLAwisb-CPc/copy) for an initial client launch meeting with some of these questions embedded – feel free to reuse and adapt!
 
-### Sample Questions
+#### Sample Questions
 
 **Communication**
 
@@ -339,7 +339,7 @@ Working agreements can be built through many kinds of conversations, from a quic
 - What platforms and software tools do you use for sharing documents, communication, virtual meetings? 
 - Are there any you cannot use due to institutional restrictions?
 
-### Matching Depth to Context
+#### Matching Depth to Context
 
 You don't need to use every lens every time. Match the depth of the conversation to the relationship and the level of trust:
 
@@ -349,7 +349,7 @@ You don't need to use every lens every time. Match the depth of the conversation
 | An ongoing team with some trust | Thinking preferences, plus the "you at your best" reflection, to understand each other's defaults and what matters |
 | A team with real trust, or one working through friction | Add the parts reflection, which asks for more openness |
 
-### What Agreements Can Be About
+#### What Agreements Can Be About
 
 If you're not sure where to start, here is a menu of topics that agreements commonly cover:
 
@@ -367,7 +367,7 @@ If you're not sure where to start, here is a menu of topics that agreements comm
 
 [Min Specs](https://www.liberatingstructures.com/14-min-specs/) is a Liberating Structure well suited to developing working agreements, especially with experimental thinkers who may be wary of lots of rules. Individuals brainstorm the things the group *must* do or *must not* do to achieve its purpose, share in pairs or small groups, and then pare the list down to the minimum set of rules the group could follow and still achieve its purpose. It pairs naturally with [1-2-4-All](https://www.liberatingstructures.com/1-1-2-4-all/) for engaging everyone. For more on these and other microstructures, see the [Effective Meetings module](https://legacyworksgroup.github.io/inclusive-facilitation/content/meetings.html#tool-highlights-microstructures).
 
-## Practice: Co-developing Working Agreements
+### Practice: Co-developing Working Agreements
 
 You've seen the ingredients and a real-world example. Now it is time to try it. Your drafts don't need to be perfect. We are practicing the process.
 
@@ -406,7 +406,7 @@ As a whole class, let's discuss:
 :::
 ::::
 
-## Taking It Back
+### Taking It Back
 
 The point of this session is to equip you to use these tools in your own work: with your internal teams, with partners or clients, and in the collaborative teams we facilitate. A few reminders as you do:
 
