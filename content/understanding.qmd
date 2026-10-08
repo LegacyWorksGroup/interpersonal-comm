@@ -98,6 +98,7 @@ On your own:
 - Notice where people with different thinking styles may have contrasting preferences
 
 ### **Part 3** Discussion
+
 - What strikes you as you read the other columns?
 - Where do you see overlap, and where do you see a real difference in what people expect?
 :::
@@ -138,6 +139,7 @@ A note on how we use this: we are borrowing IFS as a reflection tool for self-aw
 ### **Part 1** - Individual Reflection
 
 On your own reflect silently on these questions:
+
 - Which part of me has been most active this week? Who's been driving my bus recently?
 - What is that part trying to do for me? What is it afraid of or hoping for?
 
@@ -196,6 +198,7 @@ We now have three lenses: how we prefer to work, our core values, and what shows
 ### Part 1 - Individual Reflection
 
 Reflect on a work experience, at LegacyWorks or elsewhere, that felt satisfying, enlivening, and productive. It should be a time that reflects you at your best. Then jot down some notes in response to these questions:
+
 - What were you doing?
 - What were others doing?
 - What enabled that great work experience?
@@ -424,6 +427,7 @@ Agreements aren't set in stone. Build in regular check-ins, such as a standing a
 
 ::: {.callout-warning icon="false" collapse="false"}
 ### {{<fa rocket >}} Discussion: What Will You Try First?
+
 - You'll do this with your own teams and partners. What do you want to try first?
 - What do you need in order to start that conversation?
 :::
@@ -432,7 +436,7 @@ And one more time, the question that ties it all together: **What do I need, wha
 
 ## Additional Resources
 
-### Papers & Books
+### Books
 
 - Brown, B. *Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.* Random House. 2018.
 - Herrmann, N. *The Whole Brain Business Book*. McGraw-Hill. 2015.
