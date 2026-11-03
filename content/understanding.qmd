@@ -2,12 +2,14 @@
 title: "Understanding Your Team: Thinking and Working Styles, Working Agreements"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 Much of the friction on teams comes not from bad intentions, but from expectations nobody ever said out loud. One person assumes a quick reply on email is part of the job, while another expects to answer at the end of the day. One wants an agenda a day ahead, and another is happiest improvising. Neither is wrong. They just have different needs and defaults, and no one has talked about them.
 
 This session will unpack what makes you and your colleagues or collaborators tick and the implications for how your team works together. We’ll explore individual thinking preferences, work styles, and values to deepen understanding and empathy across your team. Participants will gain practice in co-developing working agreements to ensure an inclusive and supportive environment in which all team members can show up fully and do their best work.
 
-:::{.callout-tip icon="false" collapse="false"}
-## Core Competencies Strengthened
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 

@@ -2,10 +2,12 @@
 title: "Clear Communication, Courageous Conversations"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 This session is designed to strengthen participants’ communication skills and build capacity to engage in candid, sometimes difficult conversations about sensitive topics or conflicts with clarity, empathy, and effectiveness. We will explore the fundamentals of how we communicate and unpack why courageous conversations are valuable. We will share practical tips and approaches and apply them to real-world scenarios through guided practice. Building these skills supports confidence, authenticity, and stronger collaborative relationships.
 
-:::{.callout-tip icon="false" collapse="false"}
-## Core Competencies Strengthened
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 

@@ -2,14 +2,14 @@
 title: "Series Recordings"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 Past offerings of this series have been recorded and are embedded below. Use the headings below to find the part of the series for which you want to view the recording then choose the relevant tab for which iteration of the recording (if more than one is available) is of interest.
 
 ## Understanding Your Team: Thinking and Working Styles, Working Agreements
 
 :::{.panel-tabset}
 ### 2026-27 CoP
-
-
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1234234280?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CoP Interpersonal Communication"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
