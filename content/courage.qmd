@@ -176,7 +176,7 @@ Once we have climbed down the ladder, we still need to say something. **Nonviole
 NVC has four components:
 
 | **Component** | **What it is** | **Watch out for** |
-| --- | --- | --- |
+| -- | ---- | ---- |
 | **Observation** | What happened, described specifically and without evaluation | Mixing in judgment: "You're always late," "You ignored my email" |
 | **Feeling** | How I feel about it, in words that describe my own internal state | "Faux feelings" that describe what someone did *to* me: ignored, disrespected, manipulated, abandoned |
 | **Need** | The universal human need behind the feeling: clarity, reliability, respect, inclusion, rest | Confusing a need with a *strategy*: "I need you to reply within an hour" is a strategy; the need may be predictability |
@@ -187,7 +187,7 @@ NVC has four components:
 The observation is often the hardest part to get right, because our stories sneak into it. **SBI + Intent** gives it a shape:
 
 | **Step** | **What it is** | **Example** |
-| --- | --- | --- |
+| -- | ---- | ---- |
 | **Situation** | When and where | "In Tuesday's partner call..." |
 | **Behavior** | What a camera would see or hear. No labels, no motives. | "...the timeline changed and our organization's section moved up two weeks..." |
 | **Impact** | What it did to me, including how I felt | "...and I felt caught off guard, because I'd already committed my staff's time elsewhere." |
@@ -323,13 +323,13 @@ If you can't yet check most of the boxes, that's useful information. It may mean
 
 ### What It Sounds Like
 
-Here is the full chain (name it, reflect it, trade asks) in a short, low-stakes example:
+Here is an example of what the full chain sounds like:
 
 > **Speaker:** "When the agenda changed an hour before the meeting, I didn't have time to prepare the piece I was supposed to bring. I felt caught off guard, because I count on having time to get ready. What I need from you is a heads-up, even a quick one, before a change like that. And I'd like to understand what was going on for you."
 >
 > **Listener (reflects first):** "What I'm hearing is the timing made it hard to show up the way you wanted. Did I get that right?"
 >
-> **Listener (then shares their own needs):** "That makes sense. When something comes up last minute, I feel pressure to get it on the agenda fast, because I don't want to lose the window. What I need from you is some flexibility on short notice when it's truly urgent."
+> **Listener (then shares their own needs):** "That makes sense. From my side, when something comes up last minute, I feel pressure to get it on the agenda fast, because I don't want to lose the window. What I need from you is some flexibility on short notice when it's truly urgent."
 
 Name it concretely, reflect before responding, and trade asks rather than settling who's right.
 
@@ -402,7 +402,7 @@ Use this to prepare for a real conversation. You can work through it on your own
 **4. Plan my opening**
 
 - *SBI + Intent:* Situation, behavior, impact, and a curious question about their intent
-- *NVC statement:* "When ___ happens, I feel ___, because I need ___. Would you be willing to ___?"
+- *NVC statement:* "When ___ happens, I feel ___ , because I need ___ . Would you be willing to ___ ?"
 - *The give:* "What do you need from me?"
 
 **5. Check my readiness**
