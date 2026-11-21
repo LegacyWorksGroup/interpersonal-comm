@@ -1,0 +1,76 @@
+## Listening for Understanding
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+Speaking clearly is half of a courageous conversation. The other half, often the harder half, is listening. Most of us listen in order to reply: we are building our response while the other person is still talking. **Listening for understanding** means our goal, for now, is simply to understand what the other person is experiencing and what matters to them.
+
+Listening for understanding is not agreeing. You can fully understand someone's perspective and still disagree with it. But people are far more able to hear us once they feel heard.
+
+Two of our core competencies live here. **Active listening** means staying fully present, asking open-ended questions, and building on others' ideas while centering voices that are often unheard. To **empathize** is to listen deeply to others' experiences, actively seek insight from their perspective, and connect with people from a place of love, respect, and curiosity.
+
+A few practices help:
+
+- **Get curious, not furious.** Treat what you hear as information about the other person's experience, not as an attack you need to defend against.
+- **Reflect back what you heard, before you reply.** Say it in your own words: "It sounds like the timeline has been really hard to manage alongside your other work. Did I get that right?" If they say no, try again until they say yes. It slows things down and means you are responding to what was actually said.
+- **Listen for feelings and needs.** In NVC terms, try to hear the feeling and need behind the words, especially behind blame or criticism. Someone who says "this process is a mess" may need clarity, or to feel that their time is respected.
+- **Ask open-ended questions, not leading ones,** and then actually listen to the answer. "What happened from your side?" invites the other person in. "Don't you think that was a problem?" steers them toward your conclusion.
+- **Embrace the silent space.** After you ask a question or reflect something back, wait. People often share the most important thing after a pause.
+- **Hold off on fixing.** Advice, reassurance, and problem solving can all wait until the other person feels understood.
+- **Notice your own ladder.** If you find yourself getting defensive, that's a cue that you have climbed up a rung or two. Pause, breathe, and come back to curiosity.
+
+### Tool Highlight: Curiosity Question Stems
+
+- *"Help me understand..."*
+- *"What's been going on for you with...?"*
+- *"What matters most to you about...?"*
+- *"What would a good outcome look like for you?"*
+- *"What's getting in the way?"*
+- *"What am I missing?"*
+- *"Is there more?"*
+
+And for reflecting back:
+
+- *"So what I'm hearing is... Did I get that right?"*
+- *"It sounds like you're feeling ___ because ___ matters to you. Is that close?"*
+
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Listening Pairs
+
+:::{.panel-tabset}
+### **Part 1** In pairs
+
+**In pairs** (10 min total)
+
+The **speaker** talks for 2-3 minutes about a work situation that is mildly frustrating right now. Keep it low-stakes: a process that isn't working, a tool you're fighting with, a schedule that's too full.
+
+The **listener** may only:
+
+- Reflect back what they hear, including feelings and needs they notice
+- Ask open-ended questions (not leading ones)
+- Let silence happen. If the speaker pauses, wait before jumping in.
+
+The listener may **not** give advice, share their own similar story, or reassure.
+
+Then take 2 minutes to debrief:
+
+- **Speaker:** What did it feel like to be listened to this way?
+- **Listener:** What was hard about not fixing or relating?
+
+Switch roles and repeat. The person whose first name comes first alphabetically speaks first.
+
+### **Part 2** Whole-Class Discussion
+
+- What did you notice as the speaker? As the listener?
+- What urges did you have to resist as the listener?
+:::
+::::

@@ -1,0 +1,39 @@
+## You at Your Best
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+We now have three lenses: how we prefer to work, our core values, and what shows up under stress. This next step pulls them together around one question: **what helps *you* do your best work?**
+
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Guided Journaling
+
+:::{.panel-tabset}
+### Part 1 - Individual Reflection
+
+Reflect on a work experience, at LegacyWorks or elsewhere, that felt satisfying, enlivening, and productive. It should be a time that reflects you at your best. Then jot down some notes in response to these questions:
+
+- What were you doing?
+- What were others doing?
+- What enabled that great work experience?
+- What helped you to be your best?
+- What do you really value?
+- What is most important to you when you think about how you want your work environment to feel, how you want to show up, and how you want to be treated?
+
+### - Part 2 - Sensemaking
+
+Read back over what your wrote. Circle words or phrases that stand out to you. Distill your notes into two or three things you need to do your best work, and one or two things you offer a team.
+
+:::
+::::
+
+You just named what you need. Now imagine everyone on a team did the same, and most of it was never said out loud. How does a team figure out what everyone needs, and then act in accordance with that?

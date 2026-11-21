@@ -1,0 +1,37 @@
+## Core Values
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+Our values are another way to understand what is driving us. They are the beliefs that are most important to you and that fill you with purpose. They should resonate deeply with how you identify as a person. You may already know what your core values are. 
+
+If you want to discover them, Brené Brown's work offers a practical starting point:
+
+- Scan her [list of values](https://brenebrown.com/resources/dare-to-lead-list-of-values/); feel free to add new values or put these in your own words. 
+- Narrow it down to the two or three that are most central to you. You may want to start by circling 10-20 that resonate with you and then whittling down your list.
+- Your secondary values may be nested under your core values - your commitment to those values is likely fueled by your one to two core values (e.g., my commitment to collaboration is fueled by the value I place on learning and making a difference)
+
+Once you have identified your core values, sharing them with team members or collaborators can be a powerful way to build understanding and empathy. And you can start to practice aligning your behavior more intentionally with your values. Explore the prompts below on your own to deepen your understanding of how your values shape how you show up.
+
+### Tool Highlight: Living into Your Core Values
+
+You can use these prompts on your own, in a journal, or in a conversation with a trusted colleague or friend.
+
+- *What does it feel like when you are living into your values?*
+- *What are early warning signs for you that you are out of integrity with your core values?*
+- *What are 3-4 behaviors that support you in living into each of your core values?*
+- *What are 3-4 slippery behaviors you find yourself tempted to engage in even though they are counter to your core values?*
+- *Who is someone who knows your values and supports your efforts to live into them? What does support from this person look like?*
+- *How does living into your values shape the way you give and receive feedback?*
+- *What can you do as an act of self compassion to support yourself in the hard work of living into your values?*
+
+Read back over what you wrote. Circle words or phrases that stand out to you. Identify a behavior that supports your core values that you want to focus on in the coming months.

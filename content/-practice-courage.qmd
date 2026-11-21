@@ -1,0 +1,131 @@
+## Practice: A Courageous Conversation
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+Now let's bring all three tools together: noticing your own reactions, saying it clearly, and listening for understanding. We'll start with Jamie's scenario, then you'll have a chance to prepare for a real conversation of your own.
+
+### Before the Conversation: Am I Ready?
+
+A courageous conversation is more likely to go well when we go in prepared, not just with what we want to say, but with the right mindset. Brené Brown's [Engaged Feedback Checklist](https://brenebrown.com/resources/the-engaged-feedback-checklist) is a set of statements to check yourself against before giving feedback. Each one completes the sentence *"I know that I'm ready to give feedback when..."* Her central image is sitting next to the other person rather than across from them, with the problem in front of you both rather than between you. Her checklist also asks whether you are ready to listen and accept you may not fully understand, to own your part, to recognize the other person's strengths, and to stay aware of power dynamics and bias.
+
+If you can't yet check most of the boxes, that's useful information. It may mean you need more time on the ladder first. Or it may be a moment to embrace vulnerability and seek support: talking it through with a trusted colleague before the real conversation is a sign of strength, not weakness.
+
+### What It Sounds Like
+
+Here is an example of what the full chain sounds like:
+
+> **Speaker:** "When the agenda changed an hour before the meeting, I didn't have time to prepare the piece I was supposed to bring. I felt caught off guard, because I count on having time to get ready. What I need from you is a heads-up, even a quick one, before a change like that. And I'd like to understand what was going on for you."
+>
+> **Listener (reflects first):** "What I'm hearing is the timing made it hard to show up the way you wanted. Did I get that right?"
+>
+> **Listener (then shares their own needs):** "That makes sense. From my side, when something comes up last minute, I feel pressure to get it on the agenda fast, because I don't want to lose the window. What I need from you is some flexibility on short notice when it's truly urgent."
+
+Name it concretely, reflect before responding, and trade asks rather than settling who's right.
+
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Practicing the Conversation
+
+:::{.panel-tabset}
+### **Part 1** Triad Practice
+
+**The scenario continues**
+
+You've climbed down the ladder, and you've asked Jamie for a short call. You want to understand what's going on, share the impact of the delay, and figure out a path forward together.
+
+**In groups of 3** (20 minutes)
+
+Each person takes one role. The person whose first name comes first alphabetically plays **the coordinator**. The next plays **Jamie**. The third is the **observer**.
+
+- **Coordinator:** Open the conversation with SBI + Intent and an NVC statement. Then listen for understanding, and ask Jamie what they need from you.
+- **Jamie:** Read the "Jamie's role" tab (others, please don't peek!). Respond as Jamie would.
+- **Observer:** Keep time and take notes. Listen for: observations vs. evaluations, feelings and needs, reflecting back, curious questions, and moments where either person climbs up the ladder.
+
+1. **Prepare (3 min).** The coordinator jots down an opening. Jamie reads their role. The observer reviews what to listen for.
+2. **Conversation (7 min).** The coordinator and Jamie talk. Aim for understanding and a next step, not a perfect resolution.
+3. **Debrief (6 min).** Jamie shares first: what helped you feel heard? What made you defensive? Then the coordinator, then the observer.
+4. **Capture (4 min).** As a group, note one or two things that worked well to share with the whole group.
+
+### **Part 2** Jamie's role
+
+*For the person playing Jamie only.*
+
+You care about this collaborative and believe in the proposal. Two weeks ago, your executive director told you that your organization's board hasn't yet decided whether it can commit staff time to the work the proposal would fund. Until the board decides in three weeks, you've been asked not to put anything in writing that commits your organization. You were embarrassed and unsure how much you were allowed to say, so you posted a short message and hoped to sort it out later.
+
+You also feel a bit sidelined: at the last meeting, your suggestion about the proposal's community engagement approach was set aside quickly, and you're not sure your organization's perspective is valued.
+
+Start out a little guarded. If the coordinator is curious and doesn't blame you, gradually share more. If you feel judged, keep it short.
+
+### **Part 3** Whole-Class Discussion
+
+- What did the coordinator do that helped Jamie open up?
+- Where did people climb up the ladder? What brought them back down?
+- What needs did you discover underneath the positions? Where was the common ground?
+:::
+::::
+
+### Tool Highlight: Conversation Prep
+
+Use this to prepare for a real conversation. You can work through it on your own or with a trusted colleague.
+
+**1. Check the ladder**
+
+- *What actually happened? What would a camera have recorded?*
+- *What story am I telling myself? What else could be true?*
+- *What part of me is reacting, and what is it trying to protect?*
+
+**2. Get clear on my side**
+
+- *What am I feeling?*
+- *What do I need? (Not the strategy, but the need underneath it.)*
+- *What is my purpose for this conversation? What would a good outcome look like for both of us?*
+- *What is my part in this situation?*
+
+**3. Consider their side**
+
+- *What might they be feeling and needing?*
+- *What might they want me to understand?*
+- *What's their thinking preference, and what will help them hear me?*
+- *What power dynamics are at play between us?*
+- *Whose voices or perspectives might be missing from how I'm seeing this?*
+
+**4. Plan my opening**
+
+- *SBI + Intent:* Situation, behavior, impact, and a curious question about their intent
+- *NVC statement:* "When ___ happens, I feel ___ , because I need ___ . Would you be willing to ___ ?"
+- *The give:* "What do you need from me?"
+
+**5. Check my readiness**
+
+- *Review the [Engaged Feedback Checklist](https://brenebrown.com/resources/the-engaged-feedback-checklist). Am I ready to sit next to them, with the problem in front of us?*
+- *When and where will I have this conversation? Is the channel right for what I need to say?*
+
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Your Own Conversation
+
+:::{.panel-tabset}
+### **Part 1** Individual Preparation
+
+On your own (8 min), bring to mind the conversation you thought about before the session, or another one you'd like to have. It can be big or small, current or past, work or personal. It doesn't have to be dramatic, and it doesn't need to involve anyone on this call. Choosing a smaller or less charged example than the first one that comes to mind is a perfectly good choice.
+
+Work through the Conversation Prep prompts above. You don't need to complete every prompt. Focus on the ones that feel most useful, and make sure you leave with your own NVC statement.
+
+**This is private.** You won't be asked to share the details of your situation.
+
+### **Part 2** Sharing (optional)
+
+In the chat or out loud, share only what you are comfortable sharing. Passing is always fine. If you share, keep it in the shape of an NVC statement (what you need) rather than a detailed account of what someone else did:
+
+- Which prompt was most useful?
+- What, if anything, shifted in how you see the situation?
+:::
+::::

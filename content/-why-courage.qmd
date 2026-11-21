@@ -1,0 +1,45 @@
+## Why Courageous Conversations?
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+In the first session, we asked: *What do I need, what do you need, and how do we agree to work together so everyone can do their best?* Working agreements are a great start. But sooner or later, an agreement slips, a need goes unmet, or something lands badly. That's when we need courageous conversations.
+
+This session is organized around a single question:
+
+> **How do I say what needs to be said, and hear what the other person needs me to hear, without making it harder than it has to be?**
+
+We will work on that question from the inside out:
+
+- **The Ladder of Inference** helps us notice *what is happening in me*: how quickly we move from what we saw to the story we are telling about it.
+- **Nonviolent Communication** gives us a way to *say it clearly*: to name what happened, how it affected us, what we need, and what we are asking for.
+- **Listening for understanding** helps us *hear the other person*: to find the needs underneath their words, which is often where common ground lives.
+
+### The Cost of Avoiding
+
+Brené Brown popularized a simple phrase: **"Clear is kind. Unclear is unkind."** It is tempting to believe that staying quiet, hinting, or softening a message until it disappears is the kind thing to do. Usually, it isn't. When we avoid a hard conversation:
+
+- The other person loses the chance to understand the impact of their actions and to respond
+- We fill the silence with our own stories about what is going on, and those stories tend to get worse over time
+- Frustration leaks out sideways, in tone, in side conversations, or in withdrawal
+- Small, fixable problems become bigger, harder ones
+- Agreements stop meaning anything, because no one speaks up when agreements are broken
+
+Courageous conversations are not about being blunt or winning an argument. They are about caring enough about the work and the relationship to say the true thing, with compassion. This is what we mean by **candid communication**: sharing truth while owning our impact on others, and when we are out of alignment, naming it and addressing it in real time. It is also an act of **creative courage**. Setting clear but kind boundaries is part of how we take care of ourselves, each other, and the work.
+
+:::{.callout-note icon="false" collapse="false"}
+### {{< fa file-pen >}} Pre-work (optional): Bring a Conversation to Mind
+
+Before the session, think of a conversation you have been avoiding or one that you would like to handle better. It might be with a colleague, a client, or a partner in a collaborative. **You won't be asked to share the details.** We will come back to it at the end of the session.
+
+If you have a few extra minutes, skim the [Feelings and Needs Inventory](https://www.cnvc.org/store/feelings-and-needs-inventory) from the Center for Nonviolent Communication. We will use it later in the session.
+:::

@@ -1,0 +1,65 @@
+## Thinking Preferences: The Whole Brain Model
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+People have different thinking preferences, and those preferences influence what we expect and enjoy in group processes. Ned Herrmann's Whole Brain Model offers a simple, memorable way to talk about those differences.
+
+Herrmann's model uses the brain as a metaphor. The **neocortex** is associated with intellectual, cerebral thinking and the **limbic system** with instinctive, emotional thinking. The **left hemisphere** is associated with rational, analytical, systematic thinking, and the **right hemisphere** with intuitive, artistic thinking. Combining these gives four quadrants, each associated with a different thinking style. As with any model, treat it as a useful lens and not a literal map of the brain.
+
+<p align="center">
+<img src="images/whole-brain-model.png" alt="Top-down image of a human brain divided into four sections next to a circle divided into the same sections. Top left of both is blue, labeled 'analytical' in the circle. Top right is yellow, labeled 'experimental' in the circle. Bottom right is red and labeled 'relational' in circle. Bottom left is green and is labeled 'practical' in the circle. The circle also labels the lines separating each pair of adjacent quadrants as follows: analytical and experimental is 'intellectual', experimental and relational is 'intuitive', relational and practical is 'instinctive', and practical and analytical is 'rational'." width="80%"/>
+<figcaption> Ned Herrmann's Whole Brain Model </figcaption>
+</p>
+
+**What Each Thinking Style Expects and Enjoys**
+
+| **Quadrant** | **Thinking style** | **Tends to ask** | **Expects** | **Enjoys** |
+| --- | --- | --- | --- | --- |
+| **<span style="color:blue">A - Blue<span>** | <span style="color:blue">Analytical<span> | *What?* | Clear, concise information; well-articulated ideas; accuracy and certainty | A good debate; critical analysis; readings |
+| **<span style="color:green">B - Green<span>** | <span style="color:green">Practical<span> | *When?* | Step-by-step unfolding; a detailed program; punctuality; an explanation of how | A structured approach; low risk; concrete examples |
+| **<span style="color:red">C - Red<span>** | <span style="color:red">Relational<span> | *Who?* | Involvement with others; personal anecdotes; an experiential approach; feelings to be considered | The personal touch; group discussion; harmony |
+| **<span style="color:yellow">D - Yellow<span>** | <span style="color:yellow">Experimental<span> | *Why?* | An overview; a conceptual framework; freedom to explore; analogies and metaphors; visuals | Initiative and imagination; connections to other approaches; newness and fun |
+
+Most of us identify with more than one quadrant. Together, they describe a complex self made up of our rational, theoretical self; our ordered, safekeeping self; our emotional, interpersonal self; and our imaginative, experimental self. Your highest-scoring quadrant is where you tend to start, but the others are still part of you.
+
+Why does this matter for teams and collaboratives? Because each thinking style brings different strengths and expectations for teamwork. The analytical colleague who asks for the data, the practical colleague who wants a clear plan and timeline, the relational colleague who wants to check in first, and the experimental colleague who wants to explore the big picture are all contributing something. Conflict can arise when each assumes their way is simply how work is done.
+
+For more on how thinking styles shape meeting design, see [Designing Meetings for All Thinking Styles](https://legacyworksgroup.github.io/inclusive-facilitation/content/meetings.html#designing-meetings-for-all-thinking-styles) in the Effective Meetings module.
+
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Expect and Enjoy
+
+:::{.panel-tabset}
+### **Part 1** Share your likes and dislikes
+
+Pick one thinking style to focus on for this activity – the one you scored highest in (if you have a tie, just pick one).
+
+In the shared EasyRetro board:
+
+- Go to the columns for your style
+- Brainstorm things that make for a good small group or team process **for you**, and things that frustrate you (likes and dislikes)
+- Answer based primarily on the thinking preference you chose
+
+### **Part 2** Compare and contrast
+
+On your own:
+
+- Read over the other columns
+- Notice where people with different thinking styles may have contrasting preferences
+
+### **Part 3** Discussion
+
+- What strikes you as you read the other columns?
+- Where do you see overlap, and where do you see a real difference in what people expect?
+:::
+::::

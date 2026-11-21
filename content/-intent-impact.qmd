@@ -1,0 +1,35 @@
+## Fundamentals: Intent and Impact
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+Every message has two sides: what I *meant* (my intent) and how it *landed* (its impact). We judge ourselves by our intentions and others by their impact. When the two don't match, each person tends to feel misunderstood: "That's not what I meant!" and "But that's how it came across!" are both true.
+
+A few things widen the gap between intent and impact:
+
+- **Channel.** Text strips out tone of voice, facial expression, and timing. A short email that felt efficient to write can feel curt to read. The harder the message, the richer the channel it deserves (an in person conversation, call, or video rather than a chat message).
+- **Power and position.** The same words carry more weight coming from a supervisor, a funder, or a lead organization. Being aware of your position is part of communicating clearly.
+- **Our own state.** When we are tired, rushed, or anxious, a different part of us may be driving the bus, and our words come out differently than we intend.
+- **Different thinking preferences.** People listen for different things.
+
+### How Each Thinking Style Hears a Hard Message
+
+Recall the [Whole Brain Model](understanding.qmd#thinking-preferences-the-whole-brain-model) from Session 1. When we are on the receiving end of a difficult conversation, our thinking preferences shape what we listen for and what helps us take it in.
+
+| **Quadrant** | **Thinking style** | **Listens for** | **What helps** |
+| --- | --- | --- | --- |
+| **<span style="color:blue">A - Blue<span>** | <span style="color:blue">Analytical<span> | *What exactly happened?* | Specific facts and examples, not generalizations |
+| **<span style="color:green">B - Green<span>** | <span style="color:green">Practical<span> | *What happens next?* | A clear request and concrete next steps |
+| **<span style="color:red">C - Red<span>** | <span style="color:red">Relational<span> | *Are we okay?* | Acknowledgement of the relationship and of feelings on both sides |
+| **<span style="color:yellow">D - Yellow<span>** | <span style="color:yellow">Experimental<span> | *Why does this matter?* | The bigger picture and room to think about new options |
+
+Our natural tendency is to deliver hard messages in the way *we* would want to hear them. Thinking about the other person's preferences can help you decide what to lead with, and what not to leave out. Adapting our language, tone, and style to the person in front of us is how candid communication connects effectively across differences.

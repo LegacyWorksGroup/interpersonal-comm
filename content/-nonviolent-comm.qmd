@@ -1,0 +1,88 @@
+## Saying It Clearly: Nonviolent Communication
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+Once we have climbed down the ladder, we still need to say something. **Nonviolent Communication (NVC)**, developed by psychologist Marshall Rosenberg, offers a simple structure for expressing ourselves honestly without blaming, and for hearing others without getting defensive. Rosenberg's core insight is that behind every action, including the frustrating ones, is an attempt to meet a universal human need. When we connect at the level of needs, we can find more ways forward than when we argue about positions.
+
+NVC has four components:
+
+| **Component** | **What it is** | **Watch out for** |
+| -- | ---- | ---- |
+| **Observation** | What happened, described specifically and without evaluation | Mixing in judgment: "You're always late," "You ignored my email" |
+| **Feeling** | How I feel about it, in words that describe my own internal state | "Faux feelings" that describe what someone did *to* me: ignored, disrespected, manipulated, abandoned |
+| **Need** | The universal human need behind the feeling: clarity, reliability, respect, inclusion, rest | Confusing a need with a *strategy*: "I need you to reply within an hour" is a strategy; the need may be predictability |
+| **Request** | A specific, doable action I'd like, framed as something the other person can say yes or no to | Demands, or vague requests like "be more responsible" |
+
+### Naming What Happened: SBI + Intent
+
+The observation is often the hardest part to get right, because our stories sneak into it. **SBI + Intent** gives it a shape:
+
+| **Step** | **What it is** | **Example** |
+| -- | ---- | ---- |
+| **Situation** | When and where | "In Tuesday's partner call..." |
+| **Behavior** | What a camera would see or hear. No labels, no motives. | "...the timeline changed and our organization's section moved up two weeks..." |
+| **Impact** | What it did to me, including how I felt | "...and I felt caught off guard, because I'd already committed my staff's time elsewhere." |
+| **Intent** | *Theirs*, not mine. Ask, don't assume. | "Help me understand what was behind the change." |
+
+**Impact and intent are both true.** A good intent doesn't erase a hard impact, and a hard impact doesn't prove a bad intent. Asking about intent is also a built-in way to climb down the ladder: you are checking your story instead of acting on it.
+
+### Asking for What You Need: The NVC Statement
+
+Put together, NVC's four components make a simple one-sentence form:
+
+> *"When ___ happens, I feel ___, because I need ___. Would you be willing to ___?"*
+
+Notice that it says "because *I need*," not "because *you* did." In NVC, the other person's action is what sparked the feeling, but the source of the feeling is your own need. That small shift keeps the statement about you rather than a verdict on them.
+
+Two tips go with it:
+
+- **State the emotion.** No one can argue with how you felt. "I felt anxious" opens a conversation, while "you were careless" starts an argument.
+- **Every ask gets a give.** After you share what you need, invite the other person to share what they need: *"What do you need from me?"* It's a trade, not a verdict. This is where common ground starts to show up.
+
+You don't need to use this structure word for word. In real conversations, it can sound stilted. The value is in the underlying moves: separating what happened from your interpretation, owning your feelings, naming the need, and making a clear request. For example:
+
+> **Before:** "You obviously don't care about the proposal."
+>
+> **After:** "When I saw the message that your section would be late, without a new date, I felt anxious, because I need to be able to plan the full draft with the team and the funder deadline is close. Would you be willing to set up a quick call this week so we can figure out a timeline together?"
+
+### Needs Are Where Common Ground Lives
+
+The most useful part of NVC for collaborative work may be the difference between **needs** and **strategies**. People rarely disagree about needs. Nearly everyone wants respect, fairness, reliability, being heard, and the chance to contribute. We disagree about *strategies*: the specific ways we try to meet those needs.
+
+When a conversation feels stuck on positions ("We need the draft Friday" vs. "We can't get to it until next month"), try asking what need each position is trying to meet. Often, there are several strategies that would meet both people's needs, and finding them is far easier once the needs are on the table.
+
+This is the same question we asked about working agreements in Session 1: *What need does this serve, and whose need is it?*
+
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Translate It
+
+:::{.panel-tabset}
+### **Part 1** Translate
+
+In the chat (8 min), pick one or two of these statements and rewrite them as an observation, a feeling, a need, and a request. Use the [Feelings and Needs Inventory](https://www.cnvc.org/store/feelings-and-needs-inventory) if it helps.
+
+1. "You never read the materials before our meetings."
+2. "I feel like you're ignoring my input."
+3. "This collaborative is completely disorganized."
+4. "You can't just make that decision without us."
+
+### **Part 2** Possible translations
+
+There's no single right answer. Here are some possibilities:
+
+1. "In the last two meetings, a few questions came up that were answered in the pre-read (*observation*). I felt frustrated (*feeling*), because I want to use our meeting time well (*need*). Would you be willing to let me know if the pre-read isn't arriving early enough for you to get to it (*request*)?"
+2. "When I shared my idea in the meeting and we moved on without discussing it (*observation*), I felt discouraged (*feeling*), because I want my contributions to be considered (*need*). Would you be willing to come back to it at our next meeting (*request*)?" Notice that "ignored" is a faux feeling: it describes what you think someone did, not how you feel.
+3. "We've rescheduled our last three meetings, and I wasn't sure who was sending the agenda (*observation*). I feel uneasy (*feeling*) because I need some predictability to plan my time (*need*). Could we take ten minutes at the next meeting to agree on roles (*request*)?"
+4. "I learned about the change in the workplan from the newsletter (*observation*). I felt surprised and a bit hurt (*feeling*), because I value being included in decisions that affect my organization (*need*). Can we talk about how decisions like this will be made going forward (*request*)?"
+:::
+::::

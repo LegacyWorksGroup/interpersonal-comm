@@ -1,0 +1,90 @@
+## Noticing Our Own Reactions: The Ladder of Inference
+
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+- [{{< fa heart >}} A]{.cc-value}
+- [{{< fa wand-magic-sparkles >}} B]{.cc-skill}
+- [{{< fa hand-holding-heart >}} C]{.cc-steward}
+- [{{< fa square-poll-vertical >}} D]{.cc-result}
+
+:::
+
+Before we can communicate clearly with someone else, it helps to notice what is going on inside ourselves. The **Ladder of Inference**, developed by organizational psychologist Chris Argyris and popularized by Peter Senge and colleagues in *The Fifth Discipline Fieldbook*, describes how quickly, and mostly unconsciously, we move from something we observe to a conclusion and an action.
+
+Picture a ladder. At the bottom is everything that actually happened. Each step up takes us further from it:
+
+| **Rung** | **What happens** | **Example** |
+| --- | --- | --- |
+| **7. Actions** | We act based on our beliefs | I stop including them in early planning conversations |
+| **6. Beliefs** | We adopt beliefs about the world and this person | "I can't count on them" |
+| **5. Conclusions** | We draw conclusions | "They aren't committed to this collaborative" |
+| **4. Assumptions** | We make assumptions based on the meanings we added | "If they cared, they'd have told us sooner" |
+| **3. Meaning** | We add meaning, based on our culture and experience | "A one-line reply means they don't take this seriously" |
+| **2. Selected data** | We notice some of it, and filter out the rest | I notice how short their message was |
+| **1. Observable data** | What actually happened, as a camera would record it | They posted: "Our section will be late." |
+
+Two things make the ladder especially tricky:
+
+- **We climb it in seconds.** It usually doesn't feel like we're making assumptions at all. It feels like we are just seeing what is obviously true.
+- **It's a loop.** Our beliefs shape what data we notice next time. Once I believe someone is unreliable, I'm more likely to notice every late reply and less likely to notice when they come through. This is called the *reflexive loop*.
+
+None of this means our conclusions are always wrong. It means they are worth checking before we act on them, especially when the stakes are high.
+
+### The Story I'm Telling Myself
+
+Brené Brown offers a simple phrase that brings the ladder into a conversation: **"The story I'm telling myself is..."** Brown notes that our brains reward us for creating a story, even when it's incomplete. Saying "the story I'm telling myself is that you aren't committed to this, and I'd like to check that with you" names your conclusion *as a story*, not a fact. It shows the other person where you are on the ladder and invites them to help you climb back down. Saying this out loud is a small way to **embrace vulnerability**: you are owning where you are, admitting you might be wrong, and asking for the other person's help to see more clearly.
+
+This connects to the "parts" we explored in Session 1. When a part of us feels threatened (the Worrier, the Perfectionist, the part that hates being let down), it tends to climb the ladder fast. Noticing that you are high on the ladder is often a sign that a part has grabbed the wheel.
+
+::::{.callout-warning icon="false"}
+### {{<fa rocket >}} Activity: Climbing Down the Ladder
+
+:::{.panel-tabset}
+### **Part 1** The scenario
+
+**The scenario**
+
+You are six months into the multi-organization collaborative from Session 1. The group is preparing a joint funding proposal, and at the last monthly meeting each organization agreed to draft its section and post it in the shared folder by Friday. On Friday afternoon, Jamie, the representative from one partner organization, posts this in the group channel:
+
+> "Our section will be late. We have other priorities right now."
+
+Nothing else. The full draft is due to the funder in two weeks, and you are coordinating the proposal.
+
+### **Part 2** Climb up (individual)
+
+On your own (3 min), notice your first reactions. Jot down:
+
+- What story do you find yourself telling about Jamie or their organization?
+- What feelings come up?
+- What would you be tempted to do next?
+
+### **Part 3** Climb down (chat)
+
+In the chat (7 min), let's climb back down together:
+
+- **What is the observable data?** What did Jamie actually say and do?
+- **What other stories could explain the same data?** Come up with as many as you can.
+- **What don't you know?** What information would help you test your story?
+- **What could you ask Jamie** to find out?
+:::
+::::
+
+### Tool Highlight: Questions for Climbing Down the Ladder
+
+Use these on your own, before a conversation, or whenever you notice a strong reaction:
+
+- *What did I actually see or hear? What would a video camera have recorded?*
+- *What story am I telling myself about it? What else could be true?*
+- *What part of me is reacting? What is it trying to protect?*
+- *What data might I be filtering out?*
+- *What am I assuming about their intentions?*
+- *What could I ask to test my story?*
+
+And in conversation:
+
+- *"Here's what I noticed... and the story I'm telling myself is... Can you help me understand what's going on?"*
+- *"What am I missing?"*
+- *"How do you see it?"*
